@@ -1,0 +1,2186 @@
+{
+  "1008900935": {
+    "pak_offset": 14268116,
+    "pak_size": 11082,
+    "russian_file": "pc_russian_audio_v2/vo_eff_tar_walk_004_cal_587005067.wem",
+    "manifest_id": 587005067
+  },
+  "1009325488": {
+    "pak_offset": 14548992,
+    "pak_size": 13770,
+    "russian_file": "pc_russian_audio_v2/vo_eff_swim_lt_021_cal_56123380.wem",
+    "manifest_id": 56123380
+  },
+  "1009943169": {
+    "pak_offset": 14942208,
+    "pak_size": 42762,
+    "russian_file": "pc_russian_audio_v2/vo_eff_saber_lock_finish_002_cal_101997840.wem",
+    "manifest_id": 101997840
+  },
+  "1011584052": {
+    "pak_offset": 16126463,
+    "pak_size": 17054,
+    "russian_file": "pc_russian_audio_v2/vo_eff_mount_knockedoff_004_cal_465562246.wem",
+    "manifest_id": 465562246
+  },
+  "1012624640": {
+    "pak_offset": 16686197,
+    "pak_size": 15649,
+    "russian_file": "pc_russian_audio_v2/vo_eff_block_001_cere_232607490.wem",
+    "manifest_id": 232607490
+  },
+  "1015033166": {
+    "pak_offset": 18029489,
+    "pak_size": 19967,
+    "russian_file": "pc_russian_audio_v2/vo_eff_wall_slide_010_cal_397869581.wem",
+    "manifest_id": 397869581
+  },
+  "1016808811": {
+    "pak_offset": 19046483,
+    "pak_size": 10662,
+    "russian_file": "pc_russian_audio_v2/vo_eff_jump_med_001_cal_1066903033.wem",
+    "manifest_id": 1066903033
+  },
+  "1017338928": {
+    "pak_offset": 19277721,
+    "pak_size": 17516,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_take_med_001_cere_663153902.wem",
+    "manifest_id": 663153902
+  },
+  "1024038650": {
+    "pak_offset": 23134208,
+    "pak_size": 16234,
+    "russian_file": "pc_russian_audio_v2/vo_eff_breath_inhale_002_cal_1056582602.wem",
+    "manifest_id": 1056582602
+  },
+  "1024799074": {
+    "pak_offset": 23833178,
+    "pak_size": 9001,
+    "russian_file": "pc_russian_audio_v2/vo_eff_drink_ahh_001_cal_111005383.wem",
+    "manifest_id": 111005383
+  },
+  "1028760678": {
+    "pak_offset": 27368533,
+    "pak_size": 19023,
+    "russian_file": "pc_russian_audio_v2/vo_eff_swim_lt_002_cal_844802500.wem",
+    "manifest_id": 844802500
+  },
+  "1034216557": {
+    "pak_offset": 31103724,
+    "pak_size": 9769,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_give_sml_009_cere_851455110.wem",
+    "manifest_id": 851455110
+  },
+  "1034703082": {
+    "pak_offset": 31495079,
+    "pak_size": 14977,
+    "russian_file": "pc_russian_audio_v2/vo_eff_explosion_wince_005_cal_222895356.wem",
+    "manifest_id": 222895356
+  },
+  "1037172736": {
+    "pak_offset": 33030144,
+    "pak_size": 34402,
+    "russian_file": "pc_russian_audio_v2/vo_eff_land_injured_003_cal_151604577.wem",
+    "manifest_id": 151604577
+  },
+  "1039357570": {
+    "pak_offset": 34679015,
+    "pak_size": 18050,
+    "russian_file": "pc_russian_audio_v2/vo_eff_saber_block_002_cal_268075258.wem",
+    "manifest_id": 268075258
+  },
+  "1044511495": {
+    "pak_offset": 38230695,
+    "pak_size": 16564,
+    "russian_file": "pc_russian_audio_v2/vo_eff_tar_walk_009_cal_639968156.wem",
+    "manifest_id": 639968156
+  },
+  "1045190168": {
+    "pak_offset": 38820911,
+    "pak_size": 6456,
+    "russian_file": "pc_russian_audio_v2/vo_eff_land_med_001_cal_73021579.wem",
+    "manifest_id": 73021579
+  },
+  "1045829000": {
+    "pak_offset": 39303253,
+    "pak_size": 12749,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_block_lrg_001_cal_319999775.wem",
+    "manifest_id": 319999775
+  },
+  "1046536478": {
+    "pak_offset": 39939795,
+    "pak_size": 15963,
+    "russian_file": "pc_russian_audio_v2/vo_eff_saber_block_013_cal_668063911.wem",
+    "manifest_id": 668063911
+  },
+  "1047443565": {
+    "pak_offset": 40673952,
+    "pak_size": 16315,
+    "russian_file": "pc_russian_audio_v2/vo_eff_drink_glug_007_cal_673896194.wem",
+    "manifest_id": 673896194
+  },
+  "1054799046": {
+    "pak_offset": 45749507,
+    "pak_size": 24668,
+    "russian_file": "pc_russian_audio_v2/vo_gam_landingpad_moon_bode_conversation_generic2_80930_bode_306407970.wem",
+    "manifest_id": 306407970
+  },
+  "1055613290": {
+    "pak_offset": 46465024,
+    "pak_size": 26506,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_take_sml_007_cal_23559960.wem",
+    "manifest_id": 23559960
+  },
+  "1058086907": {
+    "pak_offset": 48103424,
+    "pak_size": 37492,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_give_sml_003_cere_251135727.wem",
+    "manifest_id": 251135727
+  },
+  "1066710764": {
+    "pak_offset": 53805056,
+    "pak_size": 15661,
+    "russian_file": "pc_russian_audio_v2/vo_eff_dodge_005_cere_100417820.wem",
+    "manifest_id": 100417820
+  },
+  "1068376624": {
+    "pak_offset": 55125444,
+    "pak_size": 11029,
+    "russian_file": "pc_russian_audio_v2/vo_eff_breath_sprint_022_cal_144863359.wem",
+    "manifest_id": 144863359
+  },
+  "1068439598": {
+    "pak_offset": 55144739,
+    "pak_size": 36132,
+    "russian_file": "pc_russian_audio_v2/vo_gam_landingpad_generic_greez_ambient_lateron_86945_greez_747934090.wem",
+    "manifest_id": 747934090
+  },
+  "1069100764": {
+    "pak_offset": 55622062,
+    "pak_size": 12606,
+    "russian_file": "pc_russian_audio_v2/vo_eff_death_001_cere_123739334.wem",
+    "manifest_id": 123739334
+  },
+  "1070413849": {
+    "pak_offset": 56468822,
+    "pak_size": 7303,
+    "russian_file": "pc_russian_audio_v2/vo_eff_synckill_rhippo_cal_part04_001_236132180.wem",
+    "manifest_id": 236132180
+  },
+  "1071548249": {
+    "pak_offset": 57278464,
+    "pak_size": 22404,
+    "russian_file": "pc_russian_audio_v2/vo_eff_parry_009_cere_206111920.wem",
+    "manifest_id": 206111920
+  },
+  "1073471080": {
+    "pak_offset": 58589184,
+    "pak_size": 13350,
+    "russian_file": "pc_russian_audio_v2/vo_eff_dodge_006_cere_337516641.wem",
+    "manifest_id": 337516641
+  },
+  "109843158": {
+    "pak_offset": 60227584,
+    "pak_size": 13334,
+    "russian_file": "pc_russian_audio_v2/vo_eff_breath_exhale_005_cal_814538658.wem",
+    "manifest_id": 814538658
+  },
+  "111196738": {
+    "pak_offset": 61210624,
+    "pak_size": 45291,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_take_med_004_cere_366561619.wem",
+    "manifest_id": 366561619
+  },
+  "112051577": {
+    "pak_offset": 61752016,
+    "pak_size": 16113,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_give_sml_002_cal_170150834.wem",
+    "manifest_id": 170150834
+  },
+  "112774603": {
+    "pak_offset": 62280747,
+    "pak_size": 15355,
+    "russian_file": "pc_russian_audio_v2/vo_eff_parry_003_cere_339765832.wem",
+    "manifest_id": 339765832
+  },
+  "11323460": {
+    "pak_offset": 62652416,
+    "pak_size": 13800,
+    "russian_file": "pc_russian_audio_v2/vo_eff_swim_lt_022_cal_82589198.wem",
+    "manifest_id": 82589198
+  },
+  "113503185": {
+    "pak_offset": 62914560,
+    "pak_size": 28621,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_take_sml_009_cal_169368746.wem",
+    "manifest_id": 169368746
+  },
+  "115994534": {
+    "pak_offset": 64706008,
+    "pak_size": 22724,
+    "russian_file": "pc_russian_audio_v2/vo_eff_breath_exhale_014_cal_77811212.wem",
+    "manifest_id": 77811212
+  },
+  "117255691": {
+    "pak_offset": 65470464,
+    "pak_size": 27077,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_give_sml_010_cal_423892178.wem",
+    "manifest_id": 423892178
+  },
+  "119020560": {
+    "pak_offset": 66584576,
+    "pak_size": 31909,
+    "russian_file": "pc_russian_audio_v2/vo_eff_death_saber_003_cal_424024267.wem",
+    "manifest_id": 424024267
+  },
+  "122320980": {
+    "pak_offset": 68878336,
+    "pak_size": 50189,
+    "russian_file": "pc_russian_audio_v2/vo_eff_climb_struggle_004_cal_280635046.wem",
+    "manifest_id": 280635046
+  },
+  "127266396": {
+    "pak_offset": 72953083,
+    "pak_size": 17682,
+    "russian_file": "pc_russian_audio_v2/vo_eff_tar_walk_003_cal_220216459.wem",
+    "manifest_id": 220216459
+  },
+  "130368393": {
+    "pak_offset": 75431936,
+    "pak_size": 16769,
+    "russian_file": "pc_russian_audio_v2/vo_eff_wall_slide_005_cal_516419921.wem",
+    "manifest_id": 516419921
+  },
+  "135480130": {
+    "pak_offset": 79167488,
+    "pak_size": 19663,
+    "russian_file": "pc_russian_audio_v2/vo_sys_approach_mount_raptor_31282_cal_112517482.wem",
+    "manifest_id": 112517482
+  },
+  "140717737": {
+    "pak_offset": 82523258,
+    "pak_size": 15593,
+    "russian_file": "pc_russian_audio_v2/vo_eff_land_sml_004_cal_814569318.wem",
+    "manifest_id": 814569318
+  },
+  "142123555": {
+    "pak_offset": 83492864,
+    "pak_size": 22553,
+    "russian_file": "pc_russian_audio_v2/vo_eff_synckill_rhippo_cal_part01_002_471133557.wem",
+    "manifest_id": 471133557
+  },
+  "143191233": {
+    "pak_offset": 84133976,
+    "pak_size": 11165,
+    "russian_file": "pc_russian_audio_v2/vo_eff_breath_inhale_017_cal_14816731.wem",
+    "manifest_id": 14816731
+  },
+  "145365423": {
+    "pak_offset": 85736311,
+    "pak_size": 23088,
+    "russian_file": "pc_russian_audio_v2/vo_eff_tar_drown_001_cal_777660388.wem",
+    "manifest_id": 777660388
+  },
+  "145948632": {
+    "pak_offset": 86441984,
+    "pak_size": 23946,
+    "russian_file": "pc_russian_audio_v2/vo_eff_tar_drown_004_cal_650682467.wem",
+    "manifest_id": 650682467
+  },
+  "14627433": {
+    "pak_offset": 86718327,
+    "pak_size": 34766,
+    "russian_file": "pc_russian_audio_v2/vo_eff_drink_glug_005_cal_35759790.wem",
+    "manifest_id": 35759790
+  },
+  "147485148": {
+    "pak_offset": 87711642,
+    "pak_size": 11412,
+    "russian_file": "pc_russian_audio_v2/vo_eff_breath_exhale_013_cal_811447941.wem",
+    "manifest_id": 811447941
+  },
+  "152225121": {
+    "pak_offset": 90732871,
+    "pak_size": 24734,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_take_lrg_005_cal_13891319.wem",
+    "manifest_id": 13891319
+  },
+  "152282123": {
+    "pak_offset": 90814915,
+    "pak_size": 15969,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_give_combat_finisher_005_cere_448091020.wem",
+    "manifest_id": 448091020
+  },
+  "156587040": {
+    "pak_offset": 94256678,
+    "pak_size": 17465,
+    "russian_file": "pc_russian_audio_v2/vo_eff_land_sml_001_cal_336543941.wem",
+    "manifest_id": 336543941
+  },
+  "160438058": {
+    "pak_offset": 96600064,
+    "pak_size": 22092,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_take_sml_008_cal_louder_800715221.wem",
+    "manifest_id": 800715221
+  },
+  "161627360": {
+    "pak_offset": 97404905,
+    "pak_size": 20024,
+    "russian_file": "pc_russian_audio_v2/vo_eff_synckill_rancor_cal_part03_002_473438245.wem",
+    "manifest_id": 473438245
+  },
+  "161645831": {
+    "pak_offset": 97424982,
+    "pak_size": 18934,
+    "russian_file": "pc_russian_audio_v2/vo_eff_tar_walk_002_cal_249659290.wem",
+    "manifest_id": 249659290
+  },
+  "162656057": {
+    "pak_offset": 97976320,
+    "pak_size": 24961,
+    "russian_file": "pc_russian_audio_v2/vo_eff_saber_block_004_cal_474414750.wem",
+    "manifest_id": 474414750
+  },
+  "16635991": {
+    "pak_offset": 100663296,
+    "pak_size": 26670,
+    "russian_file": "pc_russian_audio_v2/vo_eff_drink_glug_006_cal_554575456.wem",
+    "manifest_id": 554575456
+  },
+  "166617941": {
+    "pak_offset": 100822406,
+    "pak_size": 32930,
+    "russian_file": "pc_russian_audio_v2/vo_eff_breath_sprint_begin_012_cal_467577766.wem",
+    "manifest_id": 467577766
+  },
+  "169514540": {
+    "pak_offset": 102980252,
+    "pak_size": 15106,
+    "russian_file": "pc_russian_audio_v2/vo_eff_breath_exhale_011_cal_178864306.wem",
+    "manifest_id": 178864306
+  },
+  "170965335": {
+    "pak_offset": 103912566,
+    "pak_size": 16842,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_take_med_001_cal_530200176.wem",
+    "manifest_id": 530200176
+  },
+  "171131654": {
+    "pak_offset": 104049155,
+    "pak_size": 14720,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_take_sml_004_cal_510929976.wem",
+    "manifest_id": 510929976
+  },
+  "171269622": {
+    "pak_offset": 104095612,
+    "pak_size": 26135,
+    "russian_file": "pc_russian_audio_v2/vo_eff_saber_lock_finish_001_cal_848852020.wem",
+    "manifest_id": 848852020
+  },
+  "171891269": {
+    "pak_offset": 104468079,
+    "pak_size": 5117,
+    "russian_file": "pc_russian_audio_v2/vo_sys_shop_access_menu_78103_cal_374266154.wem",
+    "manifest_id": 374266154
+  },
+  "175698746": {
+    "pak_offset": 107622138,
+    "pak_size": 9720,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_take_sml_002_cere_633280574.wem",
+    "manifest_id": 633280574
+  },
+  "178570657": {
+    "pak_offset": 109222148,
+    "pak_size": 9074,
+    "russian_file": "pc_russian_audio_v2/vo_eff_phasedash_006_cal_79294219.wem",
+    "manifest_id": 79294219
+  },
+  "185814835": {
+    "pak_offset": 114442695,
+    "pak_size": 12372,
+    "russian_file": "pc_russian_audio_v2/vo_sys_losttreasure_pickup_part_shop_found_39150_cal_700639267.wem",
+    "manifest_id": 700639267
+  },
+  "185820952": {
+    "pak_offset": 114455120,
+    "pak_size": 18461,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_give_combat_finisher_rhippo_004_cal_165360202.wem",
+    "manifest_id": 165360202
+  },
+  "192245495": {
+    "pak_offset": 119209984,
+    "pak_size": 9155,
+    "russian_file": "pc_russian_audio_v2/vo_eff_synckill_rhippo_cal_part04_003_164546536.wem",
+    "manifest_id": 164546536
+  },
+  "194848204": {
+    "pak_offset": 121176064,
+    "pak_size": 28896,
+    "russian_file": "pc_russian_audio_v2/vo_eff_parry_006_cere_23794643.wem",
+    "manifest_id": 23794643
+  },
+  "195968431": {
+    "pak_offset": 121962496,
+    "pak_size": 19881,
+    "russian_file": "pc_russian_audio_v2/vo_eff_tar_walk_008_cal_1018855555.wem",
+    "manifest_id": 1018855555
+  },
+  "196493849": {
+    "pak_offset": 122322414,
+    "pak_size": 16444,
+    "russian_file": "pc_russian_audio_v2/vo_eff_saber_parry_005_cal_842817532.wem",
+    "manifest_id": 842817532
+  },
+  "202712795": {
+    "pak_offset": 126862374,
+    "pak_size": 9277,
+    "russian_file": "pc_russian_audio_v2/vo_eff_jump_lrg_003_cal_844177801.wem",
+    "manifest_id": 844177801
+  },
+  "203691530": {
+    "pak_offset": 127626353,
+    "pak_size": 13606,
+    "russian_file": "pc_russian_audio_v2/vo_eff_phasedash_005_cal_775183912.wem",
+    "manifest_id": 775183912
+  },
+  "206095704": {
+    "pak_offset": 129433600,
+    "pak_size": 22212,
+    "russian_file": "pc_russian_audio_v2/vo_eff_drink_ahh_003_cal_36252712.wem",
+    "manifest_id": 36252712
+  },
+  "210466105": {
+    "pak_offset": 132322044,
+    "pak_size": 49429,
+    "russian_file": "pc_russian_audio_v2/vo_eff_swim_lt_018_cal_692277834.wem",
+    "manifest_id": 692277834
+  },
+  "211568255": {
+    "pak_offset": 133193001,
+    "pak_size": 20862,
+    "russian_file": "pc_russian_audio_v2/vo_eff_drink_glug_014_cal_505540102.wem",
+    "manifest_id": 505540102
+  },
+  "214108203": {
+    "pak_offset": 135423729,
+    "pak_size": 30389,
+    "russian_file": "pc_russian_audio_v2/vo_eff_breath_inhale_001_cal_72417660.wem",
+    "manifest_id": 72417660
+  },
+  "225326817": {
+    "pak_offset": 143632084,
+    "pak_size": 14465,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_struggle_009_cal_362988741.wem",
+    "manifest_id": 362988741
+  },
+  "226518771": {
+    "pak_offset": 144441344,
+    "pak_size": 37166,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_give_lrg_003_cal_426622224.wem",
+    "manifest_id": 426622224
+  },
+  "229219631": {
+    "pak_offset": 146568579,
+    "pak_size": 9162,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_take_lrg_007_cal_61820871.wem",
+    "manifest_id": 61820871
+  },
+  "238014909": {
+    "pak_offset": 152730704,
+    "pak_size": 18746,
+    "russian_file": "pc_russian_audio_v2/vo_eff_synckill_rancor_cal_part02_002_514695484.wem",
+    "manifest_id": 514695484
+  },
+  "238888654": {
+    "pak_offset": 153485312,
+    "pak_size": 32659,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_give_combat_finisher_003_cere_415804798.wem",
+    "manifest_id": 415804798
+  },
+  "240301846": {
+    "pak_offset": 154271744,
+    "pak_size": 16192,
+    "russian_file": "pc_russian_audio_v2/vo_eff_climb_finish_cal_layer02_001_803544192.wem",
+    "manifest_id": 803544192
+  },
+  "244477753": {
+    "pak_offset": 157513215,
+    "pak_size": 13757,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_give_lrg_007_cal_230396663.wem",
+    "manifest_id": 230396663
+  },
+  "244589238": {
+    "pak_offset": 157642002,
+    "pak_size": 25553,
+    "russian_file": "pc_russian_audio_v2/vo_gam_losttreasure_pickup_disk_intro_39101_cal_1058531450.wem",
+    "manifest_id": 1058531450
+  },
+  "248158943": {
+    "pak_offset": 160271219,
+    "pak_size": 8865,
+    "russian_file": "pc_russian_audio_v2/vo_eff_climb_struggle_008_cal_403139357.wem",
+    "manifest_id": 403139357
+  },
+  "263594002": {
+    "pak_offset": 175709830,
+    "pak_size": 18515,
+    "russian_file": "pc_russian_audio_v2/vo_eff_wall_slide_003_cal_705080042.wem",
+    "manifest_id": 705080042
+  },
+  "263951702": {
+    "pak_offset": 176019219,
+    "pak_size": 8915,
+    "russian_file": "pc_russian_audio_v2/vo_eff_jump_sml_010_cal_662141612.wem",
+    "manifest_id": 662141612
+  },
+  "265442409": {
+    "pak_offset": 177246576,
+    "pak_size": 6255,
+    "russian_file": "pc_russian_audio_v2/vo_eff_jump_lrg_002_cal_11761933.wem",
+    "manifest_id": 11761933
+  },
+  "267208899": {
+    "pak_offset": 178749640,
+    "pak_size": 18400,
+    "russian_file": "pc_russian_audio_v2/vo_eff_breath_inhale_018_cal_327206988.wem",
+    "manifest_id": 327206988
+  },
+  "268877310": {
+    "pak_offset": 179699712,
+    "pak_size": 35757,
+    "russian_file": "pc_russian_audio_v2/vo_eff_tar_drown_005_cal_575412821.wem",
+    "manifest_id": 575412821
+  },
+  "270564420": {
+    "pak_offset": 181272576,
+    "pak_size": 17059,
+    "russian_file": "pc_russian_audio_v2/vo_eff_dodge_010_cal_264379214.wem",
+    "manifest_id": 264379214
+  },
+  "275982162": {
+    "pak_offset": 184549376,
+    "pak_size": 24269,
+    "russian_file": "pc_russian_audio_v2/vo_eff_jump_flip_005_cal_831057575.wem",
+    "manifest_id": 831057575
+  },
+  "276882051": {
+    "pak_offset": 185139200,
+    "pak_size": 31208,
+    "russian_file": "pc_russian_audio_v2/vo_eff_climb_struggle_011_cal_1039156878.wem",
+    "manifest_id": 1039156878
+  },
+  "278802739": {
+    "pak_offset": 186384384,
+    "pak_size": 26870,
+    "russian_file": "pc_russian_audio_v2/vo_eff_synckill_rhippo_cal_part02_001_83917706.wem",
+    "manifest_id": 83917706
+  },
+  "284242939": {
+    "pak_offset": 189604979,
+    "pak_size": 27813,
+    "russian_file": "pc_russian_audio_v2/vo_eff_slip_004_cal_284224956.wem",
+    "manifest_id": 284224956
+  },
+  "288666370": {
+    "pak_offset": 192675840,
+    "pak_size": 16288,
+    "russian_file": "pc_russian_audio_v2/vo_eff_breath_sprint_025_cal_300150048.wem",
+    "manifest_id": 300150048
+  },
+  "291160760": {
+    "pak_offset": 194352098,
+    "pak_size": 24190,
+    "russian_file": "pc_russian_audio_v2/vo_eff_saber_lock_struggle_003_cal_477437093.wem",
+    "manifest_id": 477437093
+  },
+  "296844825": {
+    "pak_offset": 198311936,
+    "pak_size": 12426,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_take_med_005_cere_776711725.wem",
+    "manifest_id": 776711725
+  },
+  "298538297": {
+    "pak_offset": 199603690,
+    "pak_size": 10304,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_take_lrg_009_cal_165706733.wem",
+    "manifest_id": 165706733
+  },
+  "298601604": {
+    "pak_offset": 199661341,
+    "pak_size": 9944,
+    "russian_file": "pc_russian_audio_v2/vo_eff_synckill_rancor_cal_part03_004_1001224568.wem",
+    "manifest_id": 1001224568
+  },
+  "299944356": {
+    "pak_offset": 200658673,
+    "pak_size": 9714,
+    "russian_file": "pc_russian_audio_v2/vo_eff_climb_finish_cal_layer01_005_576735503.wem",
+    "manifest_id": 576735503
+  },
+  "300493017": {
+    "pak_offset": 201014293,
+    "pak_size": 24436,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_take_med_006_cere_678692660.wem",
+    "manifest_id": 678692660
+  },
+  "300522832": {
+    "pak_offset": 201064448,
+    "pak_size": 29290,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_take_sml_005_cal_louder_567623041.wem",
+    "manifest_id": 567623041
+  },
+  "300697712": {
+    "pak_offset": 201162810,
+    "pak_size": 16613,
+    "russian_file": "pc_russian_audio_v2/vo_eff_wall_slide_008_cal_352644680.wem",
+    "manifest_id": 352644680
+  },
+  "301165882": {
+    "pak_offset": 201363038,
+    "pak_size": 7328,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_take_med_004_cal_63356629.wem",
+    "manifest_id": 63356629
+  },
+  "304576252": {
+    "pak_offset": 203489280,
+    "pak_size": 16387,
+    "russian_file": "pc_russian_audio_v2/vo_eff_breath_exhale_009_cal_15618128.wem",
+    "manifest_id": 15618128
+  },
+  "309402383": {
+    "pak_offset": 206962688,
+    "pak_size": 11441,
+    "russian_file": "pc_russian_audio_v2/vo_eff_drink_glug_013_cal_397635763.wem",
+    "manifest_id": 397635763
+  },
+  "309605158": {
+    "pak_offset": 207093760,
+    "pak_size": 26690,
+    "russian_file": "pc_russian_audio_v2/vo_eff_jump_sml_001_cal_539889411.wem",
+    "manifest_id": 539889411
+  },
+  "310854598": {
+    "pak_offset": 207945728,
+    "pak_size": 33801,
+    "russian_file": "pc_russian_audio_v2/vo_eff_swim_lt_001_cal_212312160.wem",
+    "manifest_id": 212312160
+  },
+  "321199625": {
+    "pak_offset": 215294235,
+    "pak_size": 9244,
+    "russian_file": "pc_russian_audio_v2/vo_eff_climb_struggle_001_cal_444449398.wem",
+    "manifest_id": 444449398
+  },
+  "32725250": {
+    "pak_offset": 219742208,
+    "pak_size": 43689,
+    "russian_file": "pc_russian_audio_v2/vo_eff_parry_008_cere_290490696.wem",
+    "manifest_id": 290490696
+  },
+  "332152075": {
+    "pak_offset": 222953472,
+    "pak_size": 20072,
+    "russian_file": "pc_russian_audio_v2/vo_eff_drink_glug_001_cal_235833159.wem",
+    "manifest_id": 235833159
+  },
+  "333990928": {
+    "pak_offset": 224198656,
+    "pak_size": 19192,
+    "russian_file": "pc_russian_audio_v2/vo_eff_breath_sprint_begin_024_cal_518130628.wem",
+    "manifest_id": 518130628
+  },
+  "335952483": {
+    "pak_offset": 228196352,
+    "pak_size": 23648,
+    "russian_file": "pc_russian_audio_v2/vo_gam_ambient_enemies_on_patrol_291_46676_b2_m_706915091.wem",
+    "manifest_id": 706915091
+  },
+  "338707600": {
+    "pak_offset": 230437006,
+    "pak_size": 22879,
+    "russian_file": "pc_russian_audio_v2/vo_eff_wall_slide_006_cal_504122223.wem",
+    "manifest_id": 504122223
+  },
+  "339893069": {
+    "pak_offset": 230943100,
+    "pak_size": 4789,
+    "russian_file": "pc_russian_audio_v2/vo_eff_climb_struggle_020_cal_124512067.wem",
+    "manifest_id": 124512067
+  },
+  "341076646": {
+    "pak_offset": 231549168,
+    "pak_size": 24309,
+    "russian_file": "pc_russian_audio_v2/vo_eff_climb_struggle_013_cal_179644956.wem",
+    "manifest_id": 179644956
+  },
+  "34813290": {
+    "pak_offset": 236753253,
+    "pak_size": 7655,
+    "russian_file": "pc_russian_audio_v2/vo_eff_jump_sml_003_cal_576318139.wem",
+    "manifest_id": 576318139
+  },
+  "352483555": {
+    "pak_offset": 239927296,
+    "pak_size": 54543,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_give_combat_finisher_006_cere_41356631.wem",
+    "manifest_id": 41356631
+  },
+  "354284061": {
+    "pak_offset": 241543120,
+    "pak_size": 10225,
+    "russian_file": "pc_russian_audio_v2/vo_eff_parry_007_cere_105934514.wem",
+    "manifest_id": 105934514
+  },
+  "354715671": {
+    "pak_offset": 241903766,
+    "pak_size": 51918,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_give_sml_005_cere_32311737.wem",
+    "manifest_id": 32311737
+  },
+  "357059512": {
+    "pak_offset": 243269632,
+    "pak_size": 33288,
+    "russian_file": "pc_russian_audio_v2/vo_eff_breath_inhale_005_cal_580913220.wem",
+    "manifest_id": 580913220
+  },
+  "360047918": {
+    "pak_offset": 245725692,
+    "pak_size": 13588,
+    "russian_file": "pc_russian_audio_v2/vo_eff_breath_inhale_019_cal_1469060.wem",
+    "manifest_id": 1469060
+  },
+  "360345423": {
+    "pak_offset": 245967258,
+    "pak_size": 18881,
+    "russian_file": "pc_russian_audio_v2/vo_eff_block_006_cere_84921785.wem",
+    "manifest_id": 84921785
+  },
+  "361761108": {
+    "pak_offset": 246939648,
+    "pak_size": 11904,
+    "russian_file": "pc_russian_audio_v2/vo_eff_synckill_rhippo_cal_part01_001_13283590.wem",
+    "manifest_id": 13283590
+  },
+  "370982264": {
+    "pak_offset": 253459605,
+    "pak_size": 15753,
+    "russian_file": "pc_russian_audio_v2/vo_eff_dodge_003_cere_273250472.wem",
+    "manifest_id": 273250472
+  },
+  "372805687": {
+    "pak_offset": 255143617,
+    "pak_size": 18525,
+    "russian_file": "pc_russian_audio_v2/vo_eff_breath_exhale_018_cal_234018362.wem",
+    "manifest_id": 234018362
+  },
+  "372995511": {
+    "pak_offset": 255328256,
+    "pak_size": 21523,
+    "russian_file": "pc_russian_audio_v2/vo_eff_breath_sprint_023_cal_482278570.wem",
+    "manifest_id": 482278570
+  },
+  "375360668": {
+    "pak_offset": 257519304,
+    "pak_size": 8308,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_take_sml_002_cal_louder_370482058.wem",
+    "manifest_id": 370482058
+  },
+  "379422520": {
+    "pak_offset": 260466692,
+    "pak_size": 14165,
+    "russian_file": "pc_russian_audio_v2/vo_eff_drink_glug_002_cal_11441965.wem",
+    "manifest_id": 11441965
+  },
+  "37982783": {
+    "pak_offset": 260811499,
+    "pak_size": 11756,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_give_med_003_cere_12435344.wem",
+    "manifest_id": 12435344
+  },
+  "390032982": {
+    "pak_offset": 283188776,
+    "pak_size": 11482,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_block_lowstamina_003_cal_318662941.wem",
+    "manifest_id": 318662941
+  },
+  "39090270": {
+    "pak_offset": 283669182,
+    "pak_size": 11194,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_give_lrg_008_cal_701384532.wem",
+    "manifest_id": 701384532
+  },
+  "39124025": {
+    "pak_offset": 283901952,
+    "pak_size": 29373,
+    "russian_file": "pc_russian_audio_v2/vo_eff_tar_walk_005_cal_38970139.wem",
+    "manifest_id": 38970139
+  },
+  "391605489": {
+    "pak_offset": 284182937,
+    "pak_size": 36854,
+    "russian_file": "pc_russian_audio_v2/vo_eff_wall_slide_004_cal_143456355.wem",
+    "manifest_id": 143456355
+  },
+  "394635118": {
+    "pak_offset": 286550682,
+    "pak_size": 6973,
+    "russian_file": "pc_russian_audio_v2/vo_eff_swim_lt_020_cal_1042561902.wem",
+    "manifest_id": 1042561902
+  },
+  "394636881": {
+    "pak_offset": 286557708,
+    "pak_size": 17779,
+    "russian_file": "pc_russian_audio_v2/vo_eff_breath_sprint_002_cal_73132709.wem",
+    "manifest_id": 73132709
+  },
+  "395363580": {
+    "pak_offset": 287093911,
+    "pak_size": 9332,
+    "russian_file": "pc_russian_audio_v2/vo_sys_losttreasure_pickup_part_39138_cal_241421008.wem",
+    "manifest_id": 241421008
+  },
+  "395449427": {
+    "pak_offset": 287126308,
+    "pak_size": 18920,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_take_sml_007_cal_louder_787585434.wem",
+    "manifest_id": 787585434
+  },
+  "395783009": {
+    "pak_offset": 287309824,
+    "pak_size": 33467,
+    "russian_file": "pc_russian_audio_v2/vo_eff_breath_sprint_013_cal_791202396.wem",
+    "manifest_id": 791202396
+  },
+  "397084822": {
+    "pak_offset": 288358400,
+    "pak_size": 26837,
+    "russian_file": "pc_russian_audio_v2/vo_sys_losttreasure_pickup_part_shop_not_found_39144_cal_462431270.wem",
+    "manifest_id": 462431270
+  },
+  "39717030": {
+    "pak_offset": 288489472,
+    "pak_size": 35393,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_give_med_005_cal_518010538.wem",
+    "manifest_id": 518010538
+  },
+  "398519109": {
+    "pak_offset": 289406976,
+    "pak_size": 10070,
+    "russian_file": "pc_russian_audio_v2/vo_eff_land_sml_003_cal_48955018.wem",
+    "manifest_id": 48955018
+  },
+  "40145193": {
+    "pak_offset": 291307520,
+    "pak_size": 11820,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_give_lrg_009_cal_294726798.wem",
+    "manifest_id": 294726798
+  },
+  "402552134": {
+    "pak_offset": 291897344,
+    "pak_size": 17424,
+    "russian_file": "pc_russian_audio_v2/vo_eff_breath_sprint_begin_020_cal_416409410.wem",
+    "manifest_id": 416409410
+  },
+  "402776497": {
+    "pak_offset": 292093952,
+    "pak_size": 24609,
+    "russian_file": "pc_russian_audio_v2/vo_eff_breath_sprint_021_cal_722493058.wem",
+    "manifest_id": 722493058
+  },
+  "40288498": {
+    "pak_offset": 292225024,
+    "pak_size": 17568,
+    "russian_file": "pc_russian_audio_v2/vo_sys_approach_mount_raptor_31283_cal_273361823.wem",
+    "manifest_id": 273361823
+  },
+  "405217301": {
+    "pak_offset": 293586650,
+    "pak_size": 11045,
+    "russian_file": "pc_russian_audio_v2/vo_sys_losttreasure_pickup_part_shop_not_found_39141_cal_1020014380.wem",
+    "manifest_id": 1020014380
+  },
+  "411321922": {
+    "pak_offset": 301146450,
+    "pak_size": 20206,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_take_med_010_cal_534759610.wem",
+    "manifest_id": 534759610
+  },
+  "411938206": {
+    "pak_offset": 301662208,
+    "pak_size": 16929,
+    "russian_file": "pc_russian_audio_v2/vo_eff_drink_glug_004_cal_414546762.wem",
+    "manifest_id": 414546762
+  },
+  "414109997": {
+    "pak_offset": 303300608,
+    "pak_size": 22169,
+    "russian_file": "pc_russian_audio_v2/vo_eff_breath_inhale_003_cal_398375447.wem",
+    "manifest_id": 398375447
+  },
+  "415989404": {
+    "pak_offset": 305004544,
+    "pak_size": 23506,
+    "russian_file": "pc_russian_audio_v2/vo_eff_breath_inhale_006_cal_325297533.wem",
+    "manifest_id": 325297533
+  },
+  "42094684": {
+    "pak_offset": 308218496,
+    "pak_size": 13299,
+    "russian_file": "pc_russian_audio_v2/vo_eff_swim_lt_009_cal_706377522.wem",
+    "manifest_id": 706377522
+  },
+  "424601962": {
+    "pak_offset": 310934657,
+    "pak_size": 10125,
+    "russian_file": "pc_russian_audio_v2/vo_eff_phasedash_009_cal_105662767.wem",
+    "manifest_id": 105662767
+  },
+  "433260301": {
+    "pak_offset": 316775711,
+    "pak_size": 18959,
+    "russian_file": "pc_russian_audio_v2/vo_eff_parry_004_cere_287460531.wem",
+    "manifest_id": 287460531
+  },
+  "434687375": {
+    "pak_offset": 317801960,
+    "pak_size": 26196,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_give_combat_finisher_001_cere_182601349.wem",
+    "manifest_id": 182601349
+  },
+  "441879822": {
+    "pak_offset": 323092480,
+    "pak_size": 34827,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_block_lowstamina_001_cal_699019519.wem",
+    "manifest_id": 699019519
+  },
+  "443664418": {
+    "pak_offset": 324672261,
+    "pak_size": 15570,
+    "russian_file": "pc_russian_audio_v2/vo_eff_breath_inhale_023_cal_226779170.wem",
+    "manifest_id": 226779170
+  },
+  "451580035": {
+    "pak_offset": 330112905,
+    "pak_size": 35569,
+    "russian_file": "pc_russian_audio_v2/vo_eff_breath_sprint_begin_007_cal_308917309.wem",
+    "manifest_id": 308917309
+  },
+  "451960009": {
+    "pak_offset": 330366976,
+    "pak_size": 33512,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_take_lrg_010_cal_281433000.wem",
+    "manifest_id": 281433000
+  },
+  "452025900": {
+    "pak_offset": 330498048,
+    "pak_size": 30069,
+    "russian_file": "pc_russian_audio_v2/vo_eff_climb_struggle_018_cal_272480876.wem",
+    "manifest_id": 272480876
+  },
+  "452972873": {
+    "pak_offset": 331067818,
+    "pak_size": 10731,
+    "russian_file": "pc_russian_audio_v2/vo_eff_synckill_rhippo_cal_part03_003_492826889.wem",
+    "manifest_id": 492826889
+  },
+  "456206813": {
+    "pak_offset": 333643776,
+    "pak_size": 13719,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_block_lrg_002_cal_19388335.wem",
+    "manifest_id": 19388335
+  },
+  "459325286": {
+    "pak_offset": 335790426,
+    "pak_size": 13884,
+    "russian_file": "pc_russian_audio_v2/vo_eff_synckill_rhippo_cal_part04_002_642963849.wem",
+    "manifest_id": 642963849
+  },
+  "459388384": {
+    "pak_offset": 335893218,
+    "pak_size": 6676,
+    "russian_file": "pc_russian_audio_v2/vo_eff_mount_knockedoff_006_cal_510934846.wem",
+    "manifest_id": 510934846
+  },
+  "459762222": {
+    "pak_offset": 336134144,
+    "pak_size": 46979,
+    "russian_file": "pc_russian_audio_v2/vo_eff_breath_sprint_010_cal_260602888.wem",
+    "manifest_id": 260602888
+  },
+  "460447784": {
+    "pak_offset": 336681173,
+    "pak_size": 9324,
+    "russian_file": "pc_russian_audio_v2/vo_eff_synckill_rancor_cal_part01_001_22193020.wem",
+    "manifest_id": 22193020
+  },
+  "463489302": {
+    "pak_offset": 338821120,
+    "pak_size": 25500,
+    "russian_file": "pc_russian_audio_v2/vo_eff_swim_lt_005_cal_362583480.wem",
+    "manifest_id": 362583480
+  },
+  "465910513": {
+    "pak_offset": 340878047,
+    "pak_size": 20452,
+    "russian_file": "pc_russian_audio_v2/vo_eff_dodge_008_cal_369101577.wem",
+    "manifest_id": 369101577
+  },
+  "473133742": {
+    "pak_offset": 346816512,
+    "pak_size": 27727,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_block_lrg_004_cal_462494477.wem",
+    "manifest_id": 462494477
+  },
+  "473467921": {
+    "pak_offset": 347189350,
+    "pak_size": 16321,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_take_sml_005_cere_67069927.wem",
+    "manifest_id": 67069927
+  },
+  "473565609": {
+    "pak_offset": 347234021,
+    "pak_size": 14830,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_struggle_004_cal_411832900.wem",
+    "manifest_id": 411832900
+  },
+  "474775781": {
+    "pak_offset": 347964740,
+    "pak_size": 14106,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_give_sml_004_cere_142615364.wem",
+    "manifest_id": 142615364
+  },
+  "475476593": {
+    "pak_offset": 348490955,
+    "pak_size": 18078,
+    "russian_file": "pc_russian_audio_v2/vo_eff_saber_lock_struggle_005_cal_243960915.wem",
+    "manifest_id": 243960915
+  },
+  "478442520": {
+    "pak_offset": 350355456,
+    "pak_size": 15887,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_give_med_007_cal_635618154.wem",
+    "manifest_id": 635618154
+  },
+  "483427030": {
+    "pak_offset": 353784790,
+    "pak_size": 14761,
+    "russian_file": "pc_russian_audio_v2/vo_eff_tar_walk_014_cal_854798654.wem",
+    "manifest_id": 854798654
+  },
+  "483695384": {
+    "pak_offset": 354025472,
+    "pak_size": 17303,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_give_lrg_001_cal_114101599.wem",
+    "manifest_id": 114101599
+  },
+  "492231090": {
+    "pak_offset": 359817044,
+    "pak_size": 28088,
+    "russian_file": "pc_russian_audio_v2/vo_eff_death_blaster_002_cal_77910390.wem",
+    "manifest_id": 77910390
+  },
+  "498444130": {
+    "pak_offset": 363745862,
+    "pak_size": 21255,
+    "russian_file": "pc_russian_audio_v2/vo_eff_breath_sprint_011_cal_519993699.wem",
+    "manifest_id": 519993699
+  },
+  "499092782": {
+    "pak_offset": 364183552,
+    "pak_size": 40444,
+    "russian_file": "pc_russian_audio_v2/vo_eff_synckill_rancor_cal_part01_005_728059588.wem",
+    "manifest_id": 728059588
+  },
+  "503840196": {
+    "pak_offset": 367631285,
+    "pak_size": 10794,
+    "russian_file": "pc_russian_audio_v2/vo_eff_death_saber_005_cal_160541177.wem",
+    "manifest_id": 160541177
+  },
+  "507649850": {
+    "pak_offset": 370346643,
+    "pak_size": 13377,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_give_combat_finisher_007_cere_799483087.wem",
+    "manifest_id": 799483087
+  },
+  "509829157": {
+    "pak_offset": 371683133,
+    "pak_size": 19230,
+    "russian_file": "pc_russian_audio_v2/vo_eff_mount_knockedoff_003_cal_156536515.wem",
+    "manifest_id": 156536515
+  },
+  "516957212": {
+    "pak_offset": 380413809,
+    "pak_size": 18624,
+    "russian_file": "pc_russian_audio_v2/vo_eff_parry_005_cere_489622154.wem",
+    "manifest_id": 489622154
+  },
+  "520350588": {
+    "pak_offset": 382938629,
+    "pak_size": 38827,
+    "russian_file": "pc_russian_audio_v2/vo_eff_climb_struggle_012_cal_179175791.wem",
+    "manifest_id": 179175791
+  },
+  "523148094": {
+    "pak_offset": 385037697,
+    "pak_size": 30650,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_struggle_005_cal_193012708.wem",
+    "manifest_id": 193012708
+  },
+  "524680661": {
+    "pak_offset": 386181009,
+    "pak_size": 14448,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_give_med_002_cere_479336182.wem",
+    "manifest_id": 479336182
+  },
+  "525421956": {
+    "pak_offset": 386793472,
+    "pak_size": 20011,
+    "russian_file": "pc_russian_audio_v2/vo_eff_death_explosion_005_cal_304675509.wem",
+    "manifest_id": 304675509
+  },
+  "528173450": {
+    "pak_offset": 388674558,
+    "pak_size": 9503,
+    "russian_file": "pc_russian_audio_v2/vo_eff_dodge_006_cal_355639696.wem",
+    "manifest_id": 355639696
+  },
+  "529418759": {
+    "pak_offset": 389517235,
+    "pak_size": 8137,
+    "russian_file": "pc_russian_audio_v2/vo_sys_recall_mount_failed_30958_cal_422903335.wem",
+    "manifest_id": 422903335
+  },
+  "529613958": {
+    "pak_offset": 389742592,
+    "pak_size": 14961,
+    "russian_file": "pc_russian_audio_v2/vo_eff_death_explosion_001_cal_179446150.wem",
+    "manifest_id": 179446150
+  },
+  "530127679": {
+    "pak_offset": 390038101,
+    "pak_size": 6943,
+    "russian_file": "pc_russian_audio_v2/vo_eff_drink_ahh_002_cal_183020831.wem",
+    "manifest_id": 183020831
+  },
+  "536576481": {
+    "pak_offset": 394395648,
+    "pak_size": 13984,
+    "russian_file": "pc_russian_audio_v2/vo_eff_synckill_rancor_cal_part02_005_721930575.wem",
+    "manifest_id": 721930575
+  },
+  "537113026": {
+    "pak_offset": 394788864,
+    "pak_size": 16266,
+    "russian_file": "pc_russian_audio_v2/vo_eff_land_lrg_001_cal_461933582.wem",
+    "manifest_id": 461933582
+  },
+  "538325975": {
+    "pak_offset": 395627808,
+    "pak_size": 12219,
+    "russian_file": "pc_russian_audio_v2/vo_eff_breath_sprint_017_cal_119699563.wem",
+    "manifest_id": 119699563
+  },
+  "540687543": {
+    "pak_offset": 397344768,
+    "pak_size": 13695,
+    "russian_file": "pc_russian_audio_v2/vo_eff_swim_lt_019_cal_677257483.wem",
+    "manifest_id": 677257483
+  },
+  "54627890": {
+    "pak_offset": 400949248,
+    "pak_size": 15009,
+    "russian_file": "pc_russian_audio_v2/vo_eff_land_injured_004_cal_398336314.wem",
+    "manifest_id": 398336314
+  },
+  "549632723": {
+    "pak_offset": 403243008,
+    "pak_size": 22265,
+    "russian_file": "pc_russian_audio_v2/vo_eff_rope_swing_002_cal_1027554362.wem",
+    "manifest_id": 1027554362
+  },
+  "555460262": {
+    "pak_offset": 407338338,
+    "pak_size": 24202,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_take_sml_007_cere_677082292.wem",
+    "manifest_id": 677082292
+  },
+  "556073944": {
+    "pak_offset": 407651877,
+    "pak_size": 10850,
+    "russian_file": "pc_russian_audio_v2/vo_eff_saber_lock_finish_003_cal_342829156.wem",
+    "manifest_id": 342829156
+  },
+  "565968493": {
+    "pak_offset": 414384128,
+    "pak_size": 14223,
+    "russian_file": "pc_russian_audio_v2/vo_eff_death_006_cere_2116749.wem",
+    "manifest_id": 2116749
+  },
+  "566001598": {
+    "pak_offset": 414411952,
+    "pak_size": 25736,
+    "russian_file": "pc_russian_audio_v2/vo_eff_breath_sprint_begin_015_cal_772991294.wem",
+    "manifest_id": 772991294
+  },
+  "566032289": {
+    "pak_offset": 414449664,
+    "pak_size": 41000,
+    "russian_file": "pc_russian_audio_v2/vo_eff_mount_knockedoff_002_cal_571052463.wem",
+    "manifest_id": 571052463
+  },
+  "568566589": {
+    "pak_offset": 417005568,
+    "pak_size": 22022,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_take_med_003_cere_1021756239.wem",
+    "manifest_id": 1021756239
+  },
+  "574372048": {
+    "pak_offset": 420989075,
+    "pak_size": 5675,
+    "russian_file": "pc_russian_audio_v2/vo_gam_dat2_droidmemory_ashsand_22092_cordova_413488122.wem",
+    "manifest_id": 413488122
+  },
+  "574946821": {
+    "pak_offset": 421593088,
+    "pak_size": 20103,
+    "russian_file": "pc_russian_audio_v2/vo_eff_breath_sprint_begin_019_cal_1002483035.wem",
+    "manifest_id": 1002483035
+  },
+  "578789138": {
+    "pak_offset": 424804352,
+    "pak_size": 33716,
+    "russian_file": "pc_russian_audio_v2/vo_eff_breath_sprint_begin_017_cal_509602010.wem",
+    "manifest_id": 509602010
+  },
+  "580231748": {
+    "pak_offset": 425861920,
+    "pak_size": 27210,
+    "russian_file": "pc_russian_audio_v2/vo_eff_synckill_rancor_cal_part02_001_338105331.wem",
+    "manifest_id": 338105331
+  },
+  "583093350": {
+    "pak_offset": 428053194,
+    "pak_size": 24144,
+    "russian_file": "pc_russian_audio_v2/vo_eff_breath_sprint_begin_002_cal_738581611.wem",
+    "manifest_id": 738581611
+  },
+  "584392841": {
+    "pak_offset": 428967218,
+    "pak_size": 8056,
+    "russian_file": "pc_russian_audio_v2/vo_sys_losttreasure_pickup_part_shop_not_found_39142_cal_458039413.wem",
+    "manifest_id": 458039413
+  },
+  "5855664": {
+    "pak_offset": 429764736,
+    "pak_size": 10984,
+    "russian_file": "pc_russian_audio_v2/vo_sys_losttreasure_pickup_part_shop_found_39146_cal_684157622.wem",
+    "manifest_id": 684157622
+  },
+  "587242480": {
+    "pak_offset": 430809692,
+    "pak_size": 13673,
+    "russian_file": "pc_russian_audio_v2/vo_eff_death_explosion_002_cal_454968875.wem",
+    "manifest_id": 454968875
+  },
+  "589744882": {
+    "pak_offset": 432209920,
+    "pak_size": 21143,
+    "russian_file": "pc_russian_audio_v2/vo_eff_saber_lock_finish_004_cal_126982489.wem",
+    "manifest_id": 126982489
+  },
+  "59076306": {
+    "pak_offset": 432865280,
+    "pak_size": 30153,
+    "russian_file": "pc_russian_audio_v2/vo_eff_climb_struggle_021_cal_32486752.wem",
+    "manifest_id": 32486752
+  },
+  "592521921": {
+    "pak_offset": 434137638,
+    "pak_size": 18430,
+    "russian_file": "pc_russian_audio_v2/vo_eff_climb_struggle_010_cal_189755697.wem",
+    "manifest_id": 189755697
+  },
+  "59313487": {
+    "pak_offset": 434569216,
+    "pak_size": 12670,
+    "russian_file": "pc_russian_audio_v2/vo_eff_drink_glug_010_cal_373831174.wem",
+    "manifest_id": 373831174
+  },
+  "594297733": {
+    "pak_offset": 435486720,
+    "pak_size": 28571,
+    "russian_file": "pc_russian_audio_v2/vo_eff_breath_exhale_003_cal_221801266.wem",
+    "manifest_id": 221801266
+  },
+  "594907047": {
+    "pak_offset": 435945472,
+    "pak_size": 26795,
+    "russian_file": "pc_russian_audio_v2/vo_eff_saber_lock_struggle_007_cal_580538173.wem",
+    "manifest_id": 580538173
+  },
+  "596742782": {
+    "pak_offset": 437079048,
+    "pak_size": 4731,
+    "russian_file": "pc_russian_audio_v2/vo_eff_phasedash_001_cal_212186633.wem",
+    "manifest_id": 212186633
+  },
+  "601625734": {
+    "pak_offset": 440393998,
+    "pak_size": 5926,
+    "russian_file": "pc_russian_audio_v2/vo_sys_recall_mount_failed_30959_cal_1024483269.wem",
+    "manifest_id": 1024483269
+  },
+  "601916149": {
+    "pak_offset": 440535142,
+    "pak_size": 14581,
+    "russian_file": "pc_russian_audio_v2/vo_sys_losttreasure_pickup_part_shop_found_39152_cal_356350066.wem",
+    "manifest_id": 356350066
+  },
+  "602329459": {
+    "pak_offset": 440795136,
+    "pak_size": 25177,
+    "russian_file": "pc_russian_audio_v2/vo_eff_climb_finish_cal_layer01_009_516059866.wem",
+    "manifest_id": 516059866
+  },
+  "602333535": {
+    "pak_offset": 440820366,
+    "pak_size": 16157,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_take_lrg_008_cal_846236195.wem",
+    "manifest_id": 846236195
+  },
+  "607740833": {
+    "pak_offset": 445120512,
+    "pak_size": 23396,
+    "russian_file": "pc_russian_audio_v2/vo_eff_jump_lrg_006_cal_601915113.wem",
+    "manifest_id": 601915113
+  },
+  "610947887": {
+    "pak_offset": 447676416,
+    "pak_size": 39882,
+    "russian_file": "pc_russian_audio_v2/vo_sys_losttreasure_pickup_part_39137_cal_787860375.wem",
+    "manifest_id": 787860375
+  },
+  "612675541": {
+    "pak_offset": 448971251,
+    "pak_size": 6712,
+    "russian_file": "pc_russian_audio_v2/vo_sys_losttreasure_pickup_part_39131_cal_236825799.wem",
+    "manifest_id": 236825799
+  },
+  "613503808": {
+    "pak_offset": 449389866,
+    "pak_size": 23030,
+    "russian_file": "pc_russian_audio_v2/vo_eff_breath_sprint_begin_009_cal_411498383.wem",
+    "manifest_id": 411498383
+  },
+  "61568062": {
+    "pak_offset": 450428928,
+    "pak_size": 15223,
+    "russian_file": "pc_russian_audio_v2/vo_eff_jump_med_004_cal_410731523.wem",
+    "manifest_id": 410731523
+  },
+  "616758687": {
+    "pak_offset": 451196625,
+    "pak_size": 16209,
+    "russian_file": "pc_russian_audio_v2/vo_eff_breath_inhale_016_cal_234162466.wem",
+    "manifest_id": 234162466
+  },
+  "620494217": {
+    "pak_offset": 453836800,
+    "pak_size": 15057,
+    "russian_file": "pc_russian_audio_v2/vo_eff_swim_lt_008_cal_41753821.wem",
+    "manifest_id": 41753821
+  },
+  "636141194": {
+    "pak_offset": 464912384,
+    "pak_size": 25321,
+    "russian_file": "pc_russian_audio_v2/vo_eff_breath_sprint_015_cal_301901695.wem",
+    "manifest_id": 301901695
+  },
+  "637422486": {
+    "pak_offset": 465746975,
+    "pak_size": 7435,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_give_lrg_010_cal_442594925.wem",
+    "manifest_id": 442594925
+  },
+  "639473106": {
+    "pak_offset": 467233249,
+    "pak_size": 17621,
+    "russian_file": "pc_russian_audio_v2/vo_eff_slip_003_cal_48577827.wem",
+    "manifest_id": 48577827
+  },
+  "641539342": {
+    "pak_offset": 468302073,
+    "pak_size": 11040,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_struggle_001_cal_24015243.wem",
+    "manifest_id": 24015243
+  },
+  "64411543": {
+    "pak_offset": 469900704,
+    "pak_size": 31765,
+    "russian_file": "pc_russian_audio_v2/vo_eff_jump_med_005_cal_510765434.wem",
+    "manifest_id": 510765434
+  },
+  "644401175": {
+    "pak_offset": 470155264,
+    "pak_size": 23756,
+    "russian_file": "pc_russian_audio_v2/vo_eff_saber_parry_009_cal_835953767.wem",
+    "manifest_id": 835953767
+  },
+  "645243835": {
+    "pak_offset": 470614016,
+    "pak_size": 18509,
+    "russian_file": "pc_russian_audio_v2/vo_eff_climb_finish_cal_layer02_006_152419480.wem",
+    "manifest_id": 152419480
+  },
+  "651477985": {
+    "pak_offset": 475612178,
+    "pak_size": 21850,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_give_sml_008_cere_325540980.wem",
+    "manifest_id": 325540980
+  },
+  "652106365": {
+    "pak_offset": 476017146,
+    "pak_size": 20176,
+    "russian_file": "pc_russian_audio_v2/vo_eff_synckill_rhippo_cal_part04_004_821808193.wem",
+    "manifest_id": 821808193
+  },
+  "655755327": {
+    "pak_offset": 478674944,
+    "pak_size": 24009,
+    "russian_file": "pc_russian_audio_v2/vo_eff_climb_struggle_005_cal_687293812.wem",
+    "manifest_id": 687293812
+  },
+  "663275076": {
+    "pak_offset": 484543779,
+    "pak_size": 6965,
+    "russian_file": "pc_russian_audio_v2/vo_eff_death_005_cere_142837300.wem",
+    "manifest_id": 142837300
+  },
+  "66410458": {
+    "pak_offset": 484927442,
+    "pak_size": 11253,
+    "russian_file": "pc_russian_audio_v2/vo_eff_saber_parry_001_cal_631069433.wem",
+    "manifest_id": 631069433
+  },
+  "668250410": {
+    "pak_offset": 487852604,
+    "pak_size": 33734,
+    "russian_file": "pc_russian_audio_v2/vo_eff_synckill_rhippo_cal_part03_001_218205644.wem",
+    "manifest_id": 218205644
+  },
+  "672216977": {
+    "pak_offset": 490820902,
+    "pak_size": 9882,
+    "russian_file": "pc_russian_audio_v2/vo_eff_land_med_003_cal_5880850.wem",
+    "manifest_id": 5880850
+  },
+  "673449603": {
+    "pak_offset": 491692264,
+    "pak_size": 17826,
+    "russian_file": "pc_russian_audio_v2/vo_eff_land_med_002_cal_632084706.wem",
+    "manifest_id": 632084706
+  },
+  "674750429": {
+    "pak_offset": 492715256,
+    "pak_size": 27559,
+    "russian_file": "pc_russian_audio_v2/vo_eff_breath_sprint_finish_003_cal_506894750.wem",
+    "manifest_id": 506894750
+  },
+  "677565785": {
+    "pak_offset": 494509761,
+    "pak_size": 16039,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_block_lowstamina_007_cal_645045601.wem",
+    "manifest_id": 645045601
+  },
+  "677661219": {
+    "pak_offset": 494570675,
+    "pak_size": 20775,
+    "russian_file": "pc_russian_audio_v2/vo_eff_land_lrg_005_cal_274636934.wem",
+    "manifest_id": 274636934
+  },
+  "685596408": {
+    "pak_offset": 500132419,
+    "pak_size": 14999,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_give_sml_007_cal_149314026.wem",
+    "manifest_id": 149314026
+  },
+  "691275239": {
+    "pak_offset": 503592699,
+    "pak_size": 9598,
+    "russian_file": "pc_russian_audio_v2/vo_eff_dodge_004_cal_52038199.wem",
+    "manifest_id": 52038199
+  },
+  "692132003": {
+    "pak_offset": 504299520,
+    "pak_size": 25556,
+    "russian_file": "pc_russian_audio_v2/vo_eff_breath_sprint_begin_021_cal_145328734.wem",
+    "manifest_id": 145328734
+  },
+  "694770796": {
+    "pak_offset": 505761570,
+    "pak_size": 37168,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_block_lowstamina_002_cal_571323763.wem",
+    "manifest_id": 571323763
+  },
+  "701808686": {
+    "pak_offset": 512753664,
+    "pak_size": 13730,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_struggle_007_cal_407542896.wem",
+    "manifest_id": 407542896
+  },
+  "707300831": {
+    "pak_offset": 516423680,
+    "pak_size": 30206,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_give_sml_009_cal_104116369.wem",
+    "manifest_id": 104116369
+  },
+  "709051958": {
+    "pak_offset": 517734400,
+    "pak_size": 18278,
+    "russian_file": "pc_russian_audio_v2/vo_eff_block_002_cere_777005883.wem",
+    "manifest_id": 777005883
+  },
+  "713393667": {
+    "pak_offset": 520768922,
+    "pak_size": 9436,
+    "russian_file": "pc_russian_audio_v2/vo_eff_death_003_cere_10951924.wem",
+    "manifest_id": 10951924
+  },
+  "715080951": {
+    "pak_offset": 521905302,
+    "pak_size": 23154,
+    "russian_file": "pc_russian_audio_v2/vo_eff_jump_med_006_cal_19218286.wem",
+    "manifest_id": 19218286
+  },
+  "720125223": {
+    "pak_offset": 525561392,
+    "pak_size": 11788,
+    "russian_file": "pc_russian_audio_v2/vo_eff_death_explosion_004_cal_180461963.wem",
+    "manifest_id": 180461963
+  },
+  "721348389": {
+    "pak_offset": 526385152,
+    "pak_size": 31702,
+    "russian_file": "pc_russian_audio_v2/vo_eff_saber_block_007_cal_78791400.wem",
+    "manifest_id": 78791400
+  },
+  "722038073": {
+    "pak_offset": 526843904,
+    "pak_size": 15563,
+    "russian_file": "pc_russian_audio_v2/vo_sys_approach_mount_raptor_31278_cal_792204080.wem",
+    "manifest_id": 792204080
+  },
+  "72347356": {
+    "pak_offset": 527782450,
+    "pak_size": 12042,
+    "russian_file": "pc_russian_audio_v2/vo_eff_wall_slide_009_cal_1040436741.wem",
+    "manifest_id": 1040436741
+  },
+  "72601323": {
+    "pak_offset": 529634996,
+    "pak_size": 16902,
+    "russian_file": "pc_russian_audio_v2/vo_eff_jump_003_cere_427017318.wem",
+    "manifest_id": 427017318
+  },
+  "726031054": {
+    "pak_offset": 529661952,
+    "pak_size": 18562,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_take_sml_003_cere_298496421.wem",
+    "manifest_id": 298496421
+  },
+  "731951115": {
+    "pak_offset": 533705452,
+    "pak_size": 10675,
+    "russian_file": "pc_russian_audio_v2/vo_eff_death_saber_006_cal_441621437.wem",
+    "manifest_id": 441621437
+  },
+  "73765087": {
+    "pak_offset": 537345223,
+    "pak_size": 11344,
+    "russian_file": "pc_russian_audio_v2/vo_eff_climb_finish_cal_layer02_004_1051910274.wem",
+    "manifest_id": 1051910274
+  },
+  "738881054": {
+    "pak_offset": 538312704,
+    "pak_size": 28373,
+    "russian_file": "pc_russian_audio_v2/vo_eff_synckill_rancor_cal_part01_002_36311578.wem",
+    "manifest_id": 36311578
+  },
+  "743004289": {
+    "pak_offset": 541761865,
+    "pak_size": 16677,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_give_med_001_cere_1049321165.wem",
+    "manifest_id": 1049321165
+  },
+  "74309446": {
+    "pak_offset": 541856054,
+    "pak_size": 33816,
+    "russian_file": "pc_russian_audio_v2/vo_eff_synckill_rancor_cal_part03_005_416348794.wem",
+    "manifest_id": 416348794
+  },
+  "746718927": {
+    "pak_offset": 544538624,
+    "pak_size": 42566,
+    "russian_file": "pc_russian_audio_v2/vo_eff_climb_finish_cal_layer01_003_102823933.wem",
+    "manifest_id": 102823933
+  },
+  "746886380": {
+    "pak_offset": 544749129,
+    "pak_size": 12886,
+    "russian_file": "pc_russian_audio_v2/vo_sys_approach_mount_raptor_31277_cal_219393105.wem",
+    "manifest_id": 219393105
+  },
+  "749470655": {
+    "pak_offset": 546459062,
+    "pak_size": 8210,
+    "russian_file": "pc_russian_audio_v2/vo_gam_landingpad_coru_merrin_ambient_heist_86839_bode_781298865.wem",
+    "manifest_id": 781298865
+  },
+  "752293938": {
+    "pak_offset": 548643966,
+    "pak_size": 13960,
+    "russian_file": "pc_russian_audio_v2/vo_eff_wall_slide_007_cal_30883780.wem",
+    "manifest_id": 30883780
+  },
+  "757746772": {
+    "pak_offset": 552861696,
+    "pak_size": 29795,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_take_sml_008_cal_668405027.wem",
+    "manifest_id": 668405027
+  },
+  "762900220": {
+    "pak_offset": 560178008,
+    "pak_size": 7908,
+    "russian_file": "pc_russian_audio_v2/vo_eff_breath_sprint_003_cal_302339743.wem",
+    "manifest_id": 302339743
+  },
+  "76423788": {
+    "pak_offset": 560961702,
+    "pak_size": 11664,
+    "russian_file": "pc_russian_audio_v2/vo_eff_rope_swing_005_cal_805101361.wem",
+    "manifest_id": 805101361
+  },
+  "764294961": {
+    "pak_offset": 561033858,
+    "pak_size": 19116,
+    "russian_file": "pc_russian_audio_v2/vo_eff_synckill_rancor_cal_part03_001_105530826.wem",
+    "manifest_id": 105530826
+  },
+  "765339641": {
+    "pak_offset": 561905664,
+    "pak_size": 26224,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_give_combat_finisher_rhippo_002_cal_462417242.wem",
+    "manifest_id": 462417242
+  },
+  "767122627": {
+    "pak_offset": 563085312,
+    "pak_size": 39703,
+    "russian_file": "pc_russian_audio_v2/vo_eff_death_saber_001_cal_668869078.wem",
+    "manifest_id": 668869078
+  },
+  "775072405": {
+    "pak_offset": 568963874,
+    "pak_size": 6739,
+    "russian_file": "pc_russian_audio_v2/vo_eff_tar_walk_007_cal_384928234.wem",
+    "manifest_id": 384928234
+  },
+  "776102129": {
+    "pak_offset": 569746861,
+    "pak_size": 7296,
+    "russian_file": "pc_russian_audio_v2/vo_eff_saber_parry_002_cal_641670246.wem",
+    "manifest_id": 641670246
+  },
+  "776657888": {
+    "pak_offset": 570112673,
+    "pak_size": 11989,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_take_sml_003_cal_louder_260005573.wem",
+    "manifest_id": 260005573
+  },
+  "776986160": {
+    "pak_offset": 570335165,
+    "pak_size": 10434,
+    "russian_file": "pc_russian_audio_v2/vo_eff_rope_swing_001_cal_263501792.wem",
+    "manifest_id": 263501792
+  },
+  "783702968": {
+    "pak_offset": 575694364,
+    "pak_size": 10495,
+    "russian_file": "pc_russian_audio_v2/vo_eff_swim_lt_013_cal_109736899.wem",
+    "manifest_id": 109736899
+  },
+  "787136738": {
+    "pak_offset": 578396842,
+    "pak_size": 6398,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_take_sml_006_cal_1030974246.wem",
+    "manifest_id": 1030974246
+  },
+  "787532560": {
+    "pak_offset": 578617344,
+    "pak_size": 13115,
+    "russian_file": "pc_russian_audio_v2/vo_eff_climb_struggle_022_cal_622944455.wem",
+    "manifest_id": 622944455
+  },
+  "788856058": {
+    "pak_offset": 579731456,
+    "pak_size": 14591,
+    "russian_file": "pc_russian_audio_v2/vo_eff_block_004_cere_126772625.wem",
+    "manifest_id": 126772625
+  },
+  "792468248": {
+    "pak_offset": 582287360,
+    "pak_size": 24864,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_block_lowstamina_005_cal_268773087.wem",
+    "manifest_id": 268773087
+  },
+  "792670014": {
+    "pak_offset": 582418432,
+    "pak_size": 38165,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_give_combat_finisher_004_cere_464330383.wem",
+    "manifest_id": 464330383
+  },
+  "79479990": {
+    "pak_offset": 584039689,
+    "pak_size": 10573,
+    "russian_file": "pc_russian_audio_v2/vo_eff_breath_exhale_016_cal_659635181.wem",
+    "manifest_id": 659635181
+  },
+  "799815836": {
+    "pak_offset": 587005952,
+    "pak_size": 12239,
+    "russian_file": "pc_russian_audio_v2/vo_sys_losttreasure_pickup_part_shop_not_found_39143_cal_657395223.wem",
+    "manifest_id": 657395223
+  },
+  "800847756": {
+    "pak_offset": 587673595,
+    "pak_size": 7493,
+    "russian_file": "pc_russian_audio_v2/vo_sys_approach_mount_raptor_31274_cal_387623979.wem",
+    "manifest_id": 387623979
+  },
+  "804158186": {
+    "pak_offset": 590128615,
+    "pak_size": 9391,
+    "russian_file": "pc_russian_audio_v2/vo_eff_breath_inhale_015_cal_687253909.wem",
+    "manifest_id": 687253909
+  },
+  "814655948": {
+    "pak_offset": 597521623,
+    "pak_size": 15854,
+    "russian_file": "pc_russian_audio_v2/vo_eff_death_blaster_cannon_001_cal_125203239.wem",
+    "manifest_id": 125203239
+  },
+  "81745210": {
+    "pak_offset": 603221226,
+    "pak_size": 29330,
+    "russian_file": "pc_russian_audio_v2/vo_eff_breath_exhale_017_cal_361595831.wem",
+    "manifest_id": 361595831
+  },
+  "821046903": {
+    "pak_offset": 606034497,
+    "pak_size": 11735,
+    "russian_file": "pc_russian_audio_v2/vo_eff_jump_006_cere_57000673.wem",
+    "manifest_id": 57000673
+  },
+  "827006337": {
+    "pak_offset": 610617518,
+    "pak_size": 12335,
+    "russian_file": "pc_russian_audio_v2/vo_eff_death_blaster_cannon_003_cal_312428481.wem",
+    "manifest_id": 312428481
+  },
+  "829773930": {
+    "pak_offset": 612958208,
+    "pak_size": 34657,
+    "russian_file": "pc_russian_audio_v2/vo_eff_breath_exhale_001_cal_376773332.wem",
+    "manifest_id": 376773332
+  },
+  "829934682": {
+    "pak_offset": 613058263,
+    "pak_size": 21600,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_take_lrg_003_cal_111229100.wem",
+    "manifest_id": 111229100
+  },
+  "830252366": {
+    "pak_offset": 613241789,
+    "pak_size": 9870,
+    "russian_file": "pc_russian_audio_v2/vo_eff_dodge_007_cere_598495768.wem",
+    "manifest_id": 598495768
+  },
+  "833327551": {
+    "pak_offset": 615251968,
+    "pak_size": 31940,
+    "russian_file": "pc_russian_audio_v2/vo_eff_breath_inhale_021_cal_46883982.wem",
+    "manifest_id": 46883982
+  },
+  "833562699": {
+    "pak_offset": 615389732,
+    "pak_size": 16013,
+    "russian_file": "pc_russian_audio_v2/vo_eff_death_blaster_001_cal_130258670.wem",
+    "manifest_id": 130258670
+  },
+  "834202609": {
+    "pak_offset": 615936610,
+    "pak_size": 22474,
+    "russian_file": "pc_russian_audio_v2/vo_eff_mount_knockedoff_005_cal_456367477.wem",
+    "manifest_id": 456367477
+  },
+  "835964000": {
+    "pak_offset": 617152512,
+    "pak_size": 32265,
+    "russian_file": "pc_russian_audio_v2/vo_eff_tar_walk_010_cal_506708146.wem",
+    "manifest_id": 506708146
+  },
+  "837073672": {
+    "pak_offset": 617911802,
+    "pak_size": 11451,
+    "russian_file": "pc_russian_audio_v2/vo_eff_tar_drown_003_cal_811570802.wem",
+    "manifest_id": 811570802
+  },
+  "839494081": {
+    "pak_offset": 619673111,
+    "pak_size": 14804,
+    "russian_file": "pc_russian_audio_v2/vo_eff_death_blaster_cannon_006_cal_134994.wem",
+    "manifest_id": 134994
+  },
+  "852466505": {
+    "pak_offset": 628443392,
+    "pak_size": 14212,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_take_sml_006_cal_louder_348483826.wem",
+    "manifest_id": 348483826
+  },
+  "85349590": {
+    "pak_offset": 628774168,
+    "pak_size": 20041,
+    "russian_file": "pc_russian_audio_v2/vo_eff_saber_parry_006_cal_552497837.wem",
+    "manifest_id": 552497837
+  },
+  "855714266": {
+    "pak_offset": 630369676,
+    "pak_size": 11401,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_give_lrg_002_cere_748339951.wem",
+    "manifest_id": 748339951
+  },
+  "861459653": {
+    "pak_offset": 634257408,
+    "pak_size": 36681,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_block_lowstamina_011_cal_68470875.wem",
+    "manifest_id": 68470875
+  },
+  "86166497": {
+    "pak_offset": 634359553,
+    "pak_size": 9299,
+    "russian_file": "pc_russian_audio_v2/vo_eff_breath_exhale_019_cal_417327485.wem",
+    "manifest_id": 417327485
+  },
+  "865532973": {
+    "pak_offset": 637140992,
+    "pak_size": 34257,
+    "russian_file": "pc_russian_audio_v2/vo_eff_jump_med_008_cal_724399030.wem",
+    "manifest_id": 724399030
+  },
+  "868350885": {
+    "pak_offset": 638844928,
+    "pak_size": 19901,
+    "russian_file": "pc_russian_audio_v2/vo_eff_synckill_rhippo_cal_part03_002_233807973.wem",
+    "manifest_id": 233807973
+  },
+  "870963258": {
+    "pak_offset": 640433559,
+    "pak_size": 46717,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_give_combat_finisher_002_cere_570983238.wem",
+    "manifest_id": 570983238
+  },
+  "872561472": {
+    "pak_offset": 641662976,
+    "pak_size": 21108,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_give_med_010_cal_1062133124.wem",
+    "manifest_id": 1062133124
+  },
+  "886491285": {
+    "pak_offset": 651763043,
+    "pak_size": 18263,
+    "russian_file": "pc_russian_audio_v2/vo_gam_landingpad_tan_merrin_ambient_safety_86892_greez_818431851.wem",
+    "manifest_id": 818431851
+  },
+  "887155634": {
+    "pak_offset": 652296746,
+    "pak_size": 19182,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_take_med_002_cere_380375526.wem",
+    "manifest_id": 380375526
+  },
+  "887338684": {
+    "pak_offset": 652410880,
+    "pak_size": 11372,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_block_lowstamina_010_cal_1016350092.wem",
+    "manifest_id": 1016350092
+  },
+  "88876772": {
+    "pak_offset": 653131776,
+    "pak_size": 15881,
+    "russian_file": "pc_russian_audio_v2/vo_eff_breath_inhale_007_cal_243322060.wem",
+    "manifest_id": 243322060
+  },
+  "8894175": {
+    "pak_offset": 653664114,
+    "pak_size": 12059,
+    "russian_file": "pc_russian_audio_v2/vo_eff_block_005_cere_354229738.wem",
+    "manifest_id": 354229738
+  },
+  "891020907": {
+    "pak_offset": 654573568,
+    "pak_size": 10991,
+    "russian_file": "pc_russian_audio_v2/vo_eff_drink_ahh_004_cal_680027634.wem",
+    "manifest_id": 680027634
+  },
+  "893024898": {
+    "pak_offset": 655884288,
+    "pak_size": 13262,
+    "russian_file": "pc_russian_audio_v2/vo_gam_bode_echo_postgame_dealwithdenvik_88085_denvik_771002830.wem",
+    "manifest_id": 771002830
+  },
+  "893058202": {
+    "pak_offset": 655910972,
+    "pak_size": 21697,
+    "russian_file": "pc_russian_audio_v2/vo_eff_jump_007_cere_47964086.wem",
+    "manifest_id": 47964086
+  },
+  "897433601": {
+    "pak_offset": 659423232,
+    "pak_size": 15131,
+    "russian_file": "pc_russian_audio_v2/vo_eff_land_sml_005_cal_206092429.wem",
+    "manifest_id": 206092429
+  },
+  "89841581": {
+    "pak_offset": 660144128,
+    "pak_size": 52619,
+    "russian_file": "pc_russian_audio_v2/vo_eff_synckill_rhippo_cal_part02_004_103103296.wem",
+    "manifest_id": 103103296
+  },
+  "904125622": {
+    "pak_offset": 664219085,
+    "pak_size": 19251,
+    "russian_file": "pc_russian_audio_v2/vo_eff_land_sml_006_cal_581705965.wem",
+    "manifest_id": 581705965
+  },
+  "90436000": {
+    "pak_offset": 664365049,
+    "pak_size": 20753,
+    "russian_file": "pc_russian_audio_v2/vo_eff_wall_slide_002_cal_120623722.wem",
+    "manifest_id": 120623722
+  },
+  "908177164": {
+    "pak_offset": 667025408,
+    "pak_size": 20145,
+    "russian_file": "pc_russian_audio_v2/vo_sys_losttreasure_pickup_part_shop_found_39149_cal_323048183.wem",
+    "manifest_id": 323048183
+  },
+  "908839729": {
+    "pak_offset": 667353088,
+    "pak_size": 32838,
+    "russian_file": "pc_russian_audio_v2/vo_eff_saber_block_011_cal_695457938.wem",
+    "manifest_id": 695457938
+  },
+  "911669839": {
+    "pak_offset": 669450240,
+    "pak_size": 20990,
+    "russian_file": "pc_russian_audio_v2/vo_sys_losttreasure_pickup_part_39130_cal_594025409.wem",
+    "manifest_id": 594025409
+  },
+  "91289903": {
+    "pak_offset": 670236672,
+    "pak_size": 6468,
+    "russian_file": "pc_russian_audio_v2/vo_eff_jump_002_cere_226752829.wem",
+    "manifest_id": 226752829
+  },
+  "918479746": {
+    "pak_offset": 674460783,
+    "pak_size": 32516,
+    "russian_file": "pc_russian_audio_v2/vo_eff_jump_sml_007_cal_107349707.wem",
+    "manifest_id": 107349707
+  },
+  "918818790": {
+    "pak_offset": 674824192,
+    "pak_size": 25284,
+    "russian_file": "pc_russian_audio_v2/vo_eff_saber_block_006_cal_648747905.wem",
+    "manifest_id": 648747905
+  },
+  "924328193": {
+    "pak_offset": 678428672,
+    "pak_size": 22902,
+    "russian_file": "pc_russian_audio_v2/vo_eff_death_blaster_cannon_005_cal_231179986.wem",
+    "manifest_id": 231179986
+  },
+  "924704977": {
+    "pak_offset": 678586106,
+    "pak_size": 20617,
+    "russian_file": "pc_russian_audio_v2/vo_eff_breath_sprint_005_cal_1003067489.wem",
+    "manifest_id": 1003067489
+  },
+  "925709979": {
+    "pak_offset": 679576264,
+    "pak_size": 9832,
+    "russian_file": "pc_russian_audio_v2/vo_eff_dodge_004_cere_546484106.wem",
+    "manifest_id": 546484106
+  },
+  "930338477": {
+    "pak_offset": 682850377,
+    "pak_size": 32211,
+    "russian_file": "pc_russian_audio_v2/vo_eff_synckill_rhippo_cal_part01_004_775176655.wem",
+    "manifest_id": 775176655
+  },
+  "931380358": {
+    "pak_offset": 683540480,
+    "pak_size": 24971,
+    "russian_file": "pc_russian_audio_v2/vo_eff_climb_struggle_019_cal_691294442.wem",
+    "manifest_id": 691294442
+  },
+  "9333783": {
+    "pak_offset": 684962697,
+    "pak_size": 11868,
+    "russian_file": "pc_russian_audio_v2/vo_eff_breath_sprint_begin_023_cal_843492263.wem",
+    "manifest_id": 843492263
+  },
+  "937230877": {
+    "pak_offset": 687740184,
+    "pak_size": 11135,
+    "russian_file": "pc_russian_audio_v2/vo_eff_synckill_rancor_cal_part03_003_634618169.wem",
+    "manifest_id": 634618169
+  },
+  "937337523": {
+    "pak_offset": 687881508,
+    "pak_size": 35064,
+    "russian_file": "pc_russian_audio_v2/vo_eff_death_saber_007_cal_30478863.wem",
+    "manifest_id": 30478863
+  },
+  "941270149": {
+    "pak_offset": 690966779,
+    "pak_size": 10144,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_take_lrg_004_cal_852037577.wem",
+    "manifest_id": 852037577
+  },
+  "942133142": {
+    "pak_offset": 691630448,
+    "pak_size": 28150,
+    "russian_file": "pc_russian_audio_v2/vo_eff_breath_sprint_begin_003_cal_748333527.wem",
+    "manifest_id": 748333527
+  },
+  "942969113": {
+    "pak_offset": 692217288,
+    "pak_size": 18048,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_give_sml_005_cal_711441714.wem",
+    "manifest_id": 711441714
+  },
+  "945867203": {
+    "pak_offset": 694066175,
+    "pak_size": 12473,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_struggle_002_cal_61906441.wem",
+    "manifest_id": 61906441
+  },
+  "948161388": {
+    "pak_offset": 695689569,
+    "pak_size": 29564,
+    "russian_file": "pc_russian_audio_v2/vo_eff_tar_walk_011_cal_27966364.wem",
+    "manifest_id": 27966364
+  },
+  "950854562": {
+    "pak_offset": 697710435,
+    "pak_size": 13724,
+    "russian_file": "pc_russian_audio_v2/vo_eff_death_saber_004_cal_130867259.wem",
+    "manifest_id": 130867259
+  },
+  "952508355": {
+    "pak_offset": 698974435,
+    "pak_size": 23148,
+    "russian_file": "pc_russian_audio_v2/vo_eff_dodge_005_cal_577016305.wem",
+    "manifest_id": 577016305
+  },
+  "953057588": {
+    "pak_offset": 699429732,
+    "pak_size": 26307,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_take_sml_009_cal_louder_247250986.wem",
+    "manifest_id": 247250986
+  },
+  "954673831": {
+    "pak_offset": 700799855,
+    "pak_size": 12150,
+    "russian_file": "pc_russian_audio_v2/vo_eff_land_med_006_cal_650168339.wem",
+    "manifest_id": 650168339
+  },
+  "956497728": {
+    "pak_offset": 704150608,
+    "pak_size": 22336,
+    "russian_file": "pc_russian_audio_v2/vo_eff_dodge_002_cal_1059883159.wem",
+    "manifest_id": 1059883159
+  },
+  "960421507": {
+    "pak_offset": 706773037,
+    "pak_size": 13170,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_give_combat_finisher_rhippo_001_cal_313203518.wem",
+    "manifest_id": 313203518
+  },
+  "962444143": {
+    "pak_offset": 708474489,
+    "pak_size": 16749,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_give_sml_008_cal_156661600.wem",
+    "manifest_id": 156661600
+  },
+  "965053403": {
+    "pak_offset": 710344704,
+    "pak_size": 15803,
+    "russian_file": "pc_russian_audio_v2/vo_eff_breath_sprint_begin_005_cal_51331974.wem",
+    "manifest_id": 51331974
+  },
+  "96593230": {
+    "pak_offset": 710909732,
+    "pak_size": 12697,
+    "russian_file": "pc_russian_audio_v2/vo_eff_jump_sml_004_cal_296308785.wem",
+    "manifest_id": 296308785
+  },
+  "966059326": {
+    "pak_offset": 711011391,
+    "pak_size": 18018,
+    "russian_file": "pc_russian_audio_v2/vo_eff_tar_walk_016_cal_215100787.wem",
+    "manifest_id": 215100787
+  },
+  "972350048": {
+    "pak_offset": 715063296,
+    "pak_size": 22675,
+    "russian_file": "pc_russian_audio_v2/vo_eff_death_blaster_cannon_004_cal_733851993.wem",
+    "manifest_id": 733851993
+  },
+  "975399832": {
+    "pak_offset": 717684736,
+    "pak_size": 7988,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_block_lowstamina_008_cal_177718501.wem",
+    "manifest_id": 177718501
+  },
+  "975984273": {
+    "pak_offset": 717957742,
+    "pak_size": 44323,
+    "russian_file": "pc_russian_audio_v2/vo_eff_saber_lock_struggle_009_cal_158204189.wem",
+    "manifest_id": 158204189
+  },
+  "977709234": {
+    "pak_offset": 719360764,
+    "pak_size": 12188,
+    "russian_file": "pc_russian_audio_v2/vo_eff_climb_struggle_016_cal_1062795666.wem",
+    "manifest_id": 1062795666
+  },
+  "986030730": {
+    "pak_offset": 724780265,
+    "pak_size": 14042,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_take_med_009_cal_46741657.wem",
+    "manifest_id": 46741657
+  },
+  "991770208": {
+    "pak_offset": 729105460,
+    "pak_size": 10835,
+    "russian_file": "pc_russian_audio_v2/vo_eff_saber_block_010_cal_358838165.wem",
+    "manifest_id": 358838165
+  },
+  "998120552": {
+    "pak_offset": 733184999,
+    "pak_size": 29183,
+    "russian_file": "pc_russian_audio_v2/vo_eff_fight_give_med_009_cal_337993588.wem",
+    "manifest_id": 337993588
+  }
+}

@@ -1,0 +1,17 @@
+# Large split files (uploaded to GitHub Releases)
+extracted_PC/Paks/*.part*
+extracted_PC/Paks/pakchunk2-WindowsNoEditor_9-GV-RU_P.pak
+*.pak
+*.ucas
+*.utoc
+*.dll
+*.so
+*.bin
+*.zip
+wine_prefix/
+quickbms*
+ue5*.bms
+ut4.bms
+eboot.bin
+global.ucas
+global.utoc

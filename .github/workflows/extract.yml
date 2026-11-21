@@ -1,0 +1,99 @@
+name: Extract Russian Assets from PC GameVoice Mod
+
+on:
+  workflow_dispatch:  # Manual trigger from GitHub UI
+  push:
+    paths:
+      - '.github/workflows/extract.yml'
+
+jobs:
+  extract:
+    runs-on: windows-latest
+    timeout-minutes: 60
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          lfs: false
+      
+      - name: Setup Python 3.11 (64-bit)
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          architecture: 'x64'
+      
+      - name: Install pycryptodome
+        run: pip install pycryptodome
+      
+      - name: Reassemble split pakchunk2 files
+        run: |
+          cd extracted_PC/Paks
+          python ../../reassemble_parts.py
+        shell: cmd
+      
+      - name: Verify PC mod files exist
+        run: |
+          ls -la extracted_PC/Paks/
+          ls -la user_extraction_kit/
+      
+      - name: Extract Russian .uassets from PC pakchunk0
+        run: |
+          cd user_extraction_kit
+          python extract_russian_uassets_from_pc.py
+        shell: cmd
+      
+      - name: Extract ALL Russian .wem from PC pakchunk2
+        run: |
+          cd user_extraction_kit
+          python extract_all_russian_wem_from_pc.py
+        shell: cmd
+      
+      - name: Package extracted .uassets
+        if: always()
+        run: |
+          cd user_extraction_kit
+          if (Test-Path "extracted_russian_uassets") {
+            Compress-Archive -Path "extracted_russian_uassets\*" -DestinationPath "extracted_russian_uassets.zip" -Force
+            Write-Host "Created extracted_russian_uassets.zip"
+          } else {
+            Write-Host "WARNING: extracted_russian_uassets not found"
+          }
+        shell: pwsh
+      
+      - name: Package extracted .wem
+        if: always()
+        run: |
+          cd user_extraction_kit
+          if (Test-Path "extracted_russian_wem_all") {
+            Compress-Archive -Path "extracted_russian_wem_all\*" -DestinationPath "extracted_russian_wem_all.zip" -Force
+            Write-Host "Created extracted_russian_wem_all.zip"
+          } else {
+            Write-Host "WARNING: extracted_russian_wem_all not found"
+          }
+        shell: pwsh
+      
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: extracted-russian-assets
+          path: |
+            user_extraction_kit/extracted_russian_uassets.zip
+            user_extraction_kit/extracted_russian_wem_all.zip
+          retention-days: 7
+      
+      - name: Show results summary
+        if: always()
+        run: |
+          cd user_extraction_kit
+          if (Test-Path "extracted_russian_uassets") {
+            $count = (Get-ChildItem "extracted_russian_uassets" -File).Count
+            $size = (Get-ChildItem "extracted_russian_uassets" -File | Measure-Object -Property Length -Sum).Sum
+            Write-Host "UASSETS: $count files, $([math]::Round($size/1MB, 2)) MB"
+          }
+          if (Test-Path "extracted_russian_wem_all") {
+            $count = (Get-ChildItem "extracted_russian_wem_all" -File).Count
+            $size = (Get-ChildItem "extracted_russian_wem_all" -File | Measure-Object -Property Length -Sum).Sum
+            Write-Host "WEM: $count files, $([math]::Round($size/1MB, 2)) MB"
+          }
+        shell: pwsh
