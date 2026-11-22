@@ -43,7 +43,6 @@ jobs:
           cd extracted_PC\Paks
           python ../../reassemble_parts.py
         shell: cmd
-        continue-on-error: true
       
       - name: Check reassembled
         run: |
