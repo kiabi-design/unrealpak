@@ -38,10 +38,9 @@ jobs:
           dir extracted_PC\Paks\*.part*
         shell: cmd
       
-      - name: Reassemble split pakchunk2 files
+      - name: Reassemble split pakchunk2 files (from repo root)
         run: |
-          cd extracted_PC\Paks
-          python ../../reassemble_parts.py
+          python reassemble_parts.py
         shell: cmd
       
       - name: Check reassembled
