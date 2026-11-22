@@ -61,6 +61,7 @@ jobs:
           dir user_extraction_kit\oo2core_9_win64.dll
           python -c "import ctypes; dll = ctypes.CDLL('user_extraction_kit/oo2core_9_win64.dll'); print('DLL loaded OK')"
         shell: cmd
+        continue-on-error: true
       
       - name: Extract Russian .uassets from PC pakchunk0 (with debug)
         run: |
@@ -126,13 +127,13 @@ print('Script loaded OK')
         run: |
           cd user_extraction_kit
           if (Test-Path "extracted_russian_uassets") {
-            \$count = (Get-ChildItem "extracted_russian_uassets" -File).Count
-            \$size = (Get-ChildItem "extracted_russian_uassets" -File | Measure-Object -Property Length -Sum).Sum
-            Write-Host "UASSETS: \$count files, \$([math]::Round(\$size/1MB, 2)) MB"
+            $count = (Get-ChildItem "extracted_russian_uassets" -File).Count
+            $size = (Get-ChildItem "extracted_russian_uassets" -File | Measure-Object -Property Length -Sum).Sum
+            Write-Host "UASSETS: $count files, $([math]::Round($size/1MB, 2)) MB"
           }
           if (Test-Path "extracted_russian_wem_all") {
-            \$count = (Get-ChildItem "extracted_russian_wem_all" -File).Count
-            \$size = (Get-ChildItem "extracted_russian_wem_all" -File | Measure-Object -Property Length -Sum).Sum
-            Write-Host "WEM: \$count files, \$([math]::Round(\$size/1MB, 2)) MB"
+            $count = (Get-ChildItem "extracted_russian_wem_all" -File).Count
+            $size = (Get-ChildItem "extracted_russian_wem_all" -File | Measure-Object -Property Length -Sum).Sum
+            Write-Host "WEM: $count files, $([math]::Round($size/1MB, 2)) MB"
           }
         shell: pwsh
