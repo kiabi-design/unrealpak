@@ -1,0 +1,8 @@
+# Large files - upload to GitHub Releases instead
+*.pak
+*.ucas
+*.utoc
+*.part*
+*.zip
+*.dll
+!oo2core_9_win64.dll  # Keep this small DLL in repo

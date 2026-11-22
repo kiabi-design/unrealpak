@@ -1,0 +1,560 @@
+[
+  {
+    "manifest_id": 11761933,
+    "char": "cal",
+    "russian_filename": "vo_eff_jump_lrg_002_cal_11761933.wem",
+    "ps4_wwise_id": 265442409,
+    "ps4_pak_offset": 804419957,
+    "ps4_total_size": 6255,
+    "russian_pcm_size": 6252
+  },
+  {
+    "manifest_id": 24015243,
+    "char": "cal",
+    "russian_filename": "vo_eff_fight_struggle_001_cal_24015243.wem",
+    "ps4_wwise_id": 641539342,
+    "ps4_pak_offset": 771782149,
+    "ps4_total_size": 11040,
+    "russian_pcm_size": 11040
+  },
+  {
+    "manifest_id": 30883780,
+    "char": "cal",
+    "russian_filename": "vo_eff_wall_slide_007_cal_30883780.wem",
+    "ps4_wwise_id": 752293938,
+    "ps4_pak_offset": 771884629,
+    "ps4_total_size": 13960,
+    "russian_pcm_size": 13960
+  },
+  {
+    "manifest_id": 51331974,
+    "char": "cal",
+    "russian_filename": "vo_eff_breath_sprint_begin_005_cal_51331974.wem",
+    "ps4_wwise_id": 461662392,
+    "ps4_pak_offset": 802481461,
+    "ps4_total_size": 15822,
+    "russian_pcm_size": 15812
+  },
+  {
+    "manifest_id": 56123380,
+    "char": "cal",
+    "russian_filename": "vo_eff_swim_lt_021_cal_56123380.wem",
+    "ps4_wwise_id": 1009325488,
+    "ps4_pak_offset": 772111669,
+    "ps4_total_size": 13770,
+    "russian_pcm_size": 13769
+  },
+  {
+    "manifest_id": 77811212,
+    "char": "cal",
+    "russian_filename": "vo_eff_breath_exhale_014_cal_77811212.wem",
+    "ps4_wwise_id": 307864827,
+    "ps4_pak_offset": 806070005,
+    "ps4_total_size": 22736,
+    "russian_pcm_size": 22729
+  },
+  {
+    "manifest_id": 100417820,
+    "char": "cere",
+    "russian_filename": "vo_eff_dodge_005_cere_100417820.wem",
+    "ps4_wwise_id": 1066710764,
+    "ps4_pak_offset": 772180133,
+    "ps4_total_size": 15661,
+    "russian_pcm_size": 15664
+  },
+  {
+    "manifest_id": 105530826,
+    "char": "001",
+    "russian_filename": "vo_eff_synckill_rancor_cal_part03_001_105530826.wem",
+    "ps4_wwise_id": 764294961,
+    "ps4_pak_offset": 806318453,
+    "ps4_total_size": 19116,
+    "russian_pcm_size": 19116
+  },
+  {
+    "manifest_id": 105934514,
+    "char": "cere",
+    "russian_filename": "vo_eff_parry_007_cere_105934514.wem",
+    "ps4_wwise_id": 354284061,
+    "ps4_pak_offset": 771510613,
+    "ps4_total_size": 10225,
+    "russian_pcm_size": 10226
+  },
+  {
+    "manifest_id": 123739334,
+    "char": "cere",
+    "russian_filename": "vo_eff_death_001_cere_123739334.wem",
+    "ps4_wwise_id": 278861981,
+    "ps4_pak_offset": 806054213,
+    "ps4_total_size": 12611,
+    "russian_pcm_size": 12608
+  },
+  {
+    "manifest_id": 144863359,
+    "char": "cal",
+    "russian_filename": "vo_eff_breath_sprint_022_cal_144863359.wem",
+    "ps4_wwise_id": 1068376624,
+    "ps4_pak_offset": 806476053,
+    "ps4_total_size": 11029,
+    "russian_pcm_size": 11030
+  },
+  {
+    "manifest_id": 177718501,
+    "char": "cal",
+    "russian_filename": "vo_eff_fight_block_lowstamina_008_cal_177718501.wem",
+    "ps4_wwise_id": 435892833,
+    "ps4_pak_offset": 806129909,
+    "ps4_total_size": 8003,
+    "russian_pcm_size": 7994
+  },
+  {
+    "manifest_id": 215100787,
+    "char": "cal",
+    "russian_filename": "vo_eff_tar_walk_016_cal_215100787.wem",
+    "ps4_wwise_id": 636100814,
+    "ps4_pak_offset": 806249621,
+    "ps4_total_size": 18020,
+    "russian_pcm_size": 18009
+  },
+  {
+    "manifest_id": 243322060,
+    "char": "cal",
+    "russian_filename": "vo_eff_breath_inhale_007_cal_243322060.wem",
+    "ps4_wwise_id": 789962788,
+    "ps4_pak_offset": 771918629,
+    "ps4_total_size": 15886,
+    "russian_pcm_size": 15876
+  },
+  {
+    "manifest_id": 249659290,
+    "char": "cal",
+    "russian_filename": "vo_eff_tar_walk_002_cal_249659290.wem",
+    "ps4_wwise_id": 161645831,
+    "ps4_pak_offset": 805992037,
+    "ps4_total_size": 18934,
+    "russian_pcm_size": 18936
+  },
+  {
+    "manifest_id": 264379214,
+    "char": "cal",
+    "russian_filename": "vo_eff_dodge_010_cal_264379214.wem",
+    "ps4_wwise_id": 270564420,
+    "ps4_pak_offset": 816025381,
+    "ps4_total_size": 17059,
+    "russian_pcm_size": 17061
+  },
+  {
+    "manifest_id": 273361823,
+    "char": "cal",
+    "russian_filename": "vo_sys_approach_mount_raptor_31283_cal_273361823.wem",
+    "ps4_wwise_id": 214074175,
+    "ps4_pak_offset": 771373589,
+    "ps4_total_size": 17578,
+    "russian_pcm_size": 17573
+  },
+  {
+    "manifest_id": 300150048,
+    "char": "cal",
+    "russian_filename": "vo_eff_breath_sprint_025_cal_300150048.wem",
+    "ps4_wwise_id": 288666370,
+    "ps4_pak_offset": 771455397,
+    "ps4_total_size": 16288,
+    "russian_pcm_size": 16288
+  },
+  {
+    "manifest_id": 302339743,
+    "char": "cal",
+    "russian_filename": "vo_eff_breath_sprint_003_cal_302339743.wem",
+    "ps4_wwise_id": 12366681,
+    "ps4_pak_offset": 802426005,
+    "ps4_total_size": 7911,
+    "russian_pcm_size": 7909
+  },
+  {
+    "manifest_id": 312428481,
+    "char": "cal",
+    "russian_filename": "vo_eff_death_blaster_cannon_003_cal_312428481.wem",
+    "ps4_wwise_id": 487527240,
+    "ps4_pak_offset": 768019861,
+    "ps4_total_size": 12355,
+    "russian_pcm_size": 12345
+  },
+  {
+    "manifest_id": 318662941,
+    "char": "cal",
+    "russian_filename": "vo_eff_fight_block_lowstamina_003_cal_318662941.wem",
+    "ps4_wwise_id": 1015441887,
+    "ps4_pak_offset": 804519413,
+    "ps4_total_size": 11481,
+    "russian_pcm_size": 11484
+  },
+  {
+    "manifest_id": 336543941,
+    "char": "cal",
+    "russian_filename": "vo_eff_land_sml_001_cal_336543941.wem",
+    "ps4_wwise_id": 156587040,
+    "ps4_pak_offset": 771316997,
+    "ps4_total_size": 17465,
+    "russian_pcm_size": 17472
+  },
+  {
+    "manifest_id": 354229738,
+    "char": "cere",
+    "russian_filename": "vo_eff_block_005_cere_354229738.wem",
+    "ps4_wwise_id": 1030963413,
+    "ps4_pak_offset": 772140101,
+    "ps4_total_size": 12075,
+    "russian_pcm_size": 12064
+  },
+  {
+    "manifest_id": 384928234,
+    "char": "cal",
+    "russian_filename": "vo_eff_tar_walk_007_cal_384928234.wem",
+    "ps4_wwise_id": 775072405,
+    "ps4_pak_offset": 771904709,
+    "ps4_total_size": 6739,
+    "russian_pcm_size": 6741
+  },
+  {
+    "manifest_id": 387623979,
+    "char": "cal",
+    "russian_filename": "vo_sys_approach_mount_raptor_31274_cal_387623979.wem",
+    "ps4_wwise_id": 2734739,
+    "ps4_pak_offset": 767890373,
+    "ps4_total_size": 7504,
+    "russian_pcm_size": 7493
+  },
+  {
+    "manifest_id": 410731523,
+    "char": "cal",
+    "russian_filename": "vo_eff_jump_med_004_cal_410731523.wem",
+    "ps4_wwise_id": 61568062,
+    "ps4_pak_offset": 767908389,
+    "ps4_total_size": 15223,
+    "russian_pcm_size": 15225
+  },
+  {
+    "manifest_id": 411832900,
+    "char": "cal",
+    "russian_filename": "vo_eff_fight_struggle_004_cal_411832900.wem",
+    "ps4_wwise_id": 849548938,
+    "ps4_pak_offset": 804495285,
+    "ps4_total_size": 14848,
+    "russian_pcm_size": 14839
+  },
+  {
+    "manifest_id": 413488122,
+    "char": "cordova",
+    "russian_filename": "vo_gam_dat2_droidmemory_ashsand_22092_cordova_413488122.wem",
+    "ps4_wwise_id": 574372048,
+    "ps4_pak_offset": 816088485,
+    "ps4_total_size": 5675,
+    "russian_pcm_size": 5675
+  },
+  {
+    "manifest_id": 441621437,
+    "char": "cal",
+    "russian_filename": "vo_eff_death_saber_006_cal_441621437.wem",
+    "ps4_wwise_id": 731951115,
+    "ps4_pak_offset": 817968837,
+    "ps4_total_size": 10675,
+    "russian_pcm_size": 10680
+  },
+  {
+    "manifest_id": 458039413,
+    "char": "cal",
+    "russian_filename": "vo_sys_losttreasure_pickup_part_shop_not_found_39142_cal_458039413.wem",
+    "ps4_wwise_id": 584392841,
+    "ps4_pak_offset": 806221189,
+    "ps4_total_size": 8056,
+    "russian_pcm_size": 8057
+  },
+  {
+    "manifest_id": 464330383,
+    "char": "cere",
+    "russian_filename": "vo_eff_fight_give_combat_finisher_004_cere_464330383.wem",
+    "ps4_wwise_id": 792670014,
+    "ps4_pak_offset": 817979717,
+    "ps4_total_size": 38165,
+    "russian_pcm_size": 38156
+  },
+  {
+    "manifest_id": 465562246,
+    "char": "cal",
+    "russian_filename": "vo_eff_mount_knockedoff_004_cal_465562246.wem",
+    "ps4_wwise_id": 1011584052,
+    "ps4_pak_offset": 768172005,
+    "ps4_total_size": 17054,
+    "russian_pcm_size": 17044
+  },
+  {
+    "manifest_id": 473438245,
+    "char": "002",
+    "russian_filename": "vo_eff_synckill_rancor_cal_part03_002_473438245.wem",
+    "ps4_wwise_id": 161627360,
+    "ps4_pak_offset": 817861957,
+    "ps4_total_size": 20024,
+    "russian_pcm_size": 20027
+  },
+  {
+    "manifest_id": 479336182,
+    "char": "cere",
+    "russian_filename": "vo_eff_fight_give_med_002_cere_479336182.wem",
+    "ps4_wwise_id": 524680661,
+    "ps4_pak_offset": 771663605,
+    "ps4_total_size": 14448,
+    "russian_pcm_size": 14446
+  },
+  {
+    "manifest_id": 502745153,
+    "char": "cal",
+    "russian_filename": "vo_eff_breath_sprint_027_cal_502745153.wem",
+    "ps4_wwise_id": 829773930,
+    "ps4_pak_offset": 771954197,
+    "ps4_total_size": 34657,
+    "russian_pcm_size": 34657
+  },
+  {
+    "manifest_id": 510934846,
+    "char": "cal",
+    "russian_filename": "vo_eff_mount_knockedoff_006_cal_510934846.wem",
+    "ps4_wwise_id": 704705821,
+    "ps4_pak_offset": 771840053,
+    "ps4_total_size": 6672,
+    "russian_pcm_size": 6677
+  },
+  {
+    "manifest_id": 517635126,
+    "char": "cal",
+    "russian_filename": "vo_eff_swim_lt_011_cal_517635126.wem",
+    "ps4_wwise_id": 592521921,
+    "ps4_pak_offset": 771739413,
+    "ps4_total_size": 18430,
+    "russian_pcm_size": 18434
+  },
+  {
+    "manifest_id": 528830738,
+    "char": "002",
+    "russian_filename": "vo_eff_synckill_rhippo_cal_part02_002_528830738.wem",
+    "ps4_wwise_id": 658369148,
+    "ps4_pak_offset": 768071269,
+    "ps4_total_size": 12011,
+    "russian_pcm_size": 12000
+  },
+  {
+    "manifest_id": 576318139,
+    "char": "cal",
+    "russian_filename": "vo_eff_jump_sml_003_cal_576318139.wem",
+    "ps4_wwise_id": 34813290,
+    "ps4_pak_offset": 804398517,
+    "ps4_total_size": 7655,
+    "russian_pcm_size": 7656
+  },
+  {
+    "manifest_id": 587005067,
+    "char": "cal",
+    "russian_filename": "vo_eff_tar_walk_004_cal_587005067.wem",
+    "ps4_wwise_id": 1008900935,
+    "ps4_pak_offset": 806443381,
+    "ps4_total_size": 11082,
+    "russian_pcm_size": 11082
+  },
+  {
+    "manifest_id": 621535922,
+    "char": "cal",
+    "russian_filename": "vo_eff_drink_glug_008_cal_621535922.wem",
+    "ps4_wwise_id": 682799295,
+    "ps4_pak_offset": 771823621,
+    "ps4_total_size": 15796,
+    "russian_pcm_size": 15804
+  },
+  {
+    "manifest_id": 622944455,
+    "char": "cal",
+    "russian_filename": "vo_eff_climb_struggle_022_cal_622944455.wem",
+    "ps4_wwise_id": 787532560,
+    "ps4_pak_offset": 768113893,
+    "ps4_total_size": 13115,
+    "russian_pcm_size": 13122
+  },
+  {
+    "manifest_id": 639968156,
+    "char": "cal",
+    "russian_filename": "vo_eff_tar_walk_009_cal_639968156.wem",
+    "ps4_wwise_id": 1044511495,
+    "ps4_pak_offset": 772156485,
+    "ps4_total_size": 16564,
+    "russian_pcm_size": 16570
+  },
+  {
+    "manifest_id": 659635181,
+    "char": "cal",
+    "russian_filename": "vo_eff_breath_exhale_016_cal_659635181.wem",
+    "ps4_wwise_id": 79479990,
+    "ps4_pak_offset": 816000725,
+    "ps4_total_size": 10573,
+    "russian_pcm_size": 10573
+  },
+  {
+    "manifest_id": 663153902,
+    "char": "cere",
+    "russian_filename": "vo_eff_fight_take_med_001_cere_663153902.wem",
+    "ps4_wwise_id": 25675940,
+    "ps4_pak_offset": 805925365,
+    "ps4_total_size": 17500,
+    "russian_pcm_size": 17509
+  },
+  {
+    "manifest_id": 680027634,
+    "char": "cal",
+    "russian_filename": "vo_eff_drink_ahh_004_cal_680027634.wem",
+    "ps4_wwise_id": 438920797,
+    "ps4_pak_offset": 771584437,
+    "ps4_total_size": 11001,
+    "russian_pcm_size": 10994
+  },
+  {
+    "manifest_id": 684157622,
+    "char": "cal",
+    "russian_filename": "vo_sys_losttreasure_pickup_part_shop_found_39146_cal_684157622.wem",
+    "ps4_wwise_id": 5855664,
+    "ps4_pak_offset": 771181685,
+    "ps4_total_size": 10984,
+    "russian_pcm_size": 10980
+  },
+  {
+    "manifest_id": 687253909,
+    "char": "cal",
+    "russian_filename": "vo_eff_breath_inhale_015_cal_687253909.wem",
+    "ps4_wwise_id": 205674383,
+    "ps4_pak_offset": 767940645,
+    "ps4_total_size": 9398,
+    "russian_pcm_size": 9394
+  },
+  {
+    "manifest_id": 737966561,
+    "char": "cal",
+    "russian_filename": "vo_eff_breath_sprint_begin_006_cal_737966561.wem",
+    "ps4_wwise_id": 461662392,
+    "ps4_pak_offset": 802481461,
+    "ps4_total_size": 15822,
+    "russian_pcm_size": 15811
+  },
+  {
+    "manifest_id": 738581611,
+    "char": "cal",
+    "russian_filename": "vo_eff_breath_sprint_begin_002_cal_738581611.wem",
+    "ps4_wwise_id": 583093350,
+    "ps4_pak_offset": 817938853,
+    "ps4_total_size": 24144,
+    "russian_pcm_size": 24150
+  },
+  {
+    "manifest_id": 771002830,
+    "char": "denvik",
+    "russian_filename": "vo_gam_bode_echo_postgame_dealwithdenvik_88085_denvik_771002830.wem",
+    "ps4_wwise_id": 893024898,
+    "ps4_pak_offset": 768138037,
+    "ps4_total_size": 13262,
+    "russian_pcm_size": 13261
+  },
+  {
+    "manifest_id": 792204080,
+    "char": "cal",
+    "russian_filename": "vo_sys_approach_mount_raptor_31278_cal_792204080.wem",
+    "ps4_wwise_id": 722038073,
+    "ps4_pak_offset": 771857061,
+    "ps4_total_size": 15563,
+    "russian_pcm_size": 15560
+  },
+  {
+    "manifest_id": 799483087,
+    "char": "cere",
+    "russian_filename": "vo_eff_fight_give_combat_finisher_007_cere_799483087.wem",
+    "ps4_wwise_id": 507649850,
+    "ps4_pak_offset": 806174453,
+    "ps4_total_size": 13377,
+    "russian_pcm_size": 13381
+  },
+  {
+    "manifest_id": 1003067489,
+    "char": "cal",
+    "russian_filename": "vo_eff_breath_sprint_005_cal_1003067489.wem",
+    "ps4_wwise_id": 924704977,
+    "ps4_pak_offset": 806398901,
+    "ps4_total_size": 20617,
+    "russian_pcm_size": 20616
+  },
+  {
+    "manifest_id": 1004789816,
+    "char": "cal",
+    "russian_filename": "vo_eff_tar_walk_015_cal_1004789816.wem",
+    "ps4_wwise_id": 787532560,
+    "ps4_pak_offset": 768113893,
+    "ps4_total_size": 13115,
+    "russian_pcm_size": 13110
+  },
+  {
+    "manifest_id": 1021756239,
+    "char": "cere",
+    "russian_filename": "vo_eff_fight_take_med_003_cere_1021756239.wem",
+    "ps4_wwise_id": 568566589,
+    "ps4_pak_offset": 771710037,
+    "ps4_total_size": 22022,
+    "russian_pcm_size": 22021
+  },
+  {
+    "manifest_id": 1027554362,
+    "char": "cal",
+    "russian_filename": "vo_eff_rope_swing_002_cal_1027554362.wem",
+    "ps4_wwise_id": 549632723,
+    "ps4_pak_offset": 804453557,
+    "ps4_total_size": 22265,
+    "russian_pcm_size": 22273
+  },
+  {
+    "manifest_id": 1030974246,
+    "char": "cal",
+    "russian_filename": "vo_eff_fight_take_sml_006_cal_1030974246.wem",
+    "ps4_wwise_id": 787136738,
+    "ps4_pak_offset": 804488245,
+    "ps4_total_size": 6398,
+    "russian_pcm_size": 6395
+  },
+  {
+    "manifest_id": 1039156878,
+    "char": "cal",
+    "russian_filename": "vo_eff_climb_struggle_011_cal_1039156878.wem",
+    "ps4_wwise_id": 276882051,
+    "ps4_pak_offset": 817884725,
+    "ps4_total_size": 31208,
+    "russian_pcm_size": 31205
+  },
+  {
+    "manifest_id": 1040436741,
+    "char": "cal",
+    "russian_filename": "vo_eff_wall_slide_009_cal_1040436741.wem",
+    "ps4_wwise_id": 72347356,
+    "ps4_pak_offset": 805945589,
+    "ps4_total_size": 12042,
+    "russian_pcm_size": 12044
+  },
+  {
+    "manifest_id": 1042561902,
+    "char": "cal",
+    "russian_filename": "vo_eff_swim_lt_020_cal_1042561902.wem",
+    "ps4_wwise_id": 394635118,
+    "ps4_pak_offset": 771540869,
+    "ps4_total_size": 6973,
+    "russian_pcm_size": 6973
+  },
+  {
+    "manifest_id": 1062795666,
+    "char": "cal",
+    "russian_filename": "vo_eff_climb_struggle_016_cal_1062795666.wem",
+    "ps4_wwise_id": 977709234,
+    "ps4_pak_offset": 772088421,
+    "ps4_total_size": 12188,
+    "russian_pcm_size": 12187
+  }
+]
