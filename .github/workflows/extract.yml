@@ -38,11 +38,19 @@ jobs:
           dir extracted_PC\Paks\*.part*
         shell: cmd
       
-      - name: Reassemble split pakchunk2 files
+      - name: Check reassemble_parts.py exists
+        run: |
+          dir reassemble_parts.py
+        shell: cmd
+      
+      - name: Reassemble split pakchunk2 files (with debug)
         run: |
           cd extracted_PC\Paks
           python ../../reassemble_parts.py
+          echo "=== Checking output ==="
+          dir pakchunk2-WindowsNoEditor_9-GV-RU_P.pak
         shell: cmd
+        continue-on-error: true
       
       - name: Check reassembled
         run: |
