@@ -48,6 +48,7 @@ jobs:
           dir extracted_PC\Paks\pakchunk2-WindowsNoEditor_9-GV-RU_P.pak
         shell: cmd
         working-directory: ${{ github.workspace }}
+        continue-on-error: true
       
       - name: Verify PC mod files exist
         run: |
