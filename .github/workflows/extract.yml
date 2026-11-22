@@ -33,10 +33,21 @@ jobs:
           gh release download v1.0-split-parts --repo kiabi-design/unrealpak --dir extracted_PC/Paks/ --pattern "*.part*"
         shell: pwsh
       
+      - name: List downloaded parts
+        run: |
+          dir extracted_PC\Paks\*.part*
+        shell: cmd
+      
       - name: Reassemble split pakchunk2 files
         run: |
-          cd extracted_PC/Paks
+          cd extracted_PC\Paks
           python ../../reassemble_parts.py
+        shell: cmd
+        continue-on-error: true
+      
+      - name: Check reassembled
+        run: |
+          dir extracted_PC\Paks\pakchunk2-WindowsNoEditor_9-GV-RU_P.pak
         shell: cmd
       
       - name: Verify PC mod files exist
@@ -49,12 +60,14 @@ jobs:
           cd user_extraction_kit
           python extract_russian_uassets_from_pc.py
         shell: cmd
+        continue-on-error: true
       
       - name: Extract ALL Russian .wem from PC pakchunk2
         run: |
           cd user_extraction_kit
           python extract_all_russian_wem_from_pc.py
         shell: cmd
+        continue-on-error: true
       
       - name: Package extracted .uassets
         if: always()
