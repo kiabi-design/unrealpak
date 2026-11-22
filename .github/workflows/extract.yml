@@ -1,7 +1,7 @@
 name: Extract Russian Assets from PC GameVoice Mod
 
 on:
-  workflow_dispatch:  # Manual trigger from GitHub UI
+  workflow_dispatch:
   push:
     paths:
       - '.github/workflows/extract.yml'
@@ -25,6 +25,13 @@ jobs:
       
       - name: Install pycryptodome
         run: pip install pycryptodome
+      
+      - name: Download split parts from Release
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh release download v1.0-split-parts --repo kiabi-design/unrealpak --dir extracted_PC/Paks/ --pattern "*.part*"
+        shell: pwsh
       
       - name: Reassemble split pakchunk2 files
         run: |
